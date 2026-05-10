@@ -4,13 +4,15 @@ from PyInstaller.utils.hooks import collect_submodules
 
 hidden_openpyxl = collect_submodules('openpyxl')
 hidden_openpyxl.append('et_xmlfile')
+hidden_reportlab = collect_submodules('reportlab')
+all_hidden = hidden_openpyxl + hidden_reportlab
 
 a = Analysis(
     ['desktop_app.py'],
     pathex=[],
     binaries=[],
-    datas=[('katsayilar.json', '.')],
-    hiddenimports=hidden_openpyxl,
+    datas=[('katsayilar.json', '.'), ('icon.png', '.')],
+    hiddenimports=all_hidden,
     hookspath=[],
     hooksconfig={},
     runtime_hooks=[],
@@ -36,6 +38,7 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
+    icon='icon.ico',
 )
 coll = COLLECT(
     exe,

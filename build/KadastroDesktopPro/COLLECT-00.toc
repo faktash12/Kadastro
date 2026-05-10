@@ -8500,6 +8500,7 @@
   ('greenlet\\_greenlet.cp314-win_amd64.pyd',
    'C:\\Python314\\Lib\\site-packages\\greenlet\\_greenlet.cp314-win_amd64.pyd',
    'EXTENSION'),
+  ('icon.png', 'D:\\Projeler\\GitHub\\Kadastro\\icon.png', 'DATA'),
   ('katsayilar.json',
    'D:\\Projeler\\GitHub\\Kadastro\\katsayilar.json',
    'DATA'),

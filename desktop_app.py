@@ -16,16 +16,18 @@ from tkinter import filedialog, messagebox, ttk
 from typing import Callable
 
 
-APP_NAME = "Kadastro Harç Hesaplama - Masaüstü"
+APP_NAME = "Kadastro Harç Hesaplama"
 YEAR = datetime.now().year
 BASE_TARIFF_YEAR = 2026
 MIN_KONTROLLUK = 2660.0
 REV_FOOTER_TEXT = "B091TKG0010000.FR.232 Rev.No/Tarih:00/02.11.2009"
 DEFAULT_LOGO_PATH = Path("C:/Users/Asus/OneDrive/Desktop/Tapu ve Kadastro Yeni Logo.jpg")
+DEFAULT_ICON_PATH = Path("icon.png")
 EXCEL_HEADERS = ["Bölge", "İl", "İlçe", "Tapu YK", "Kadastro YK"]
 RATE_EXCEL_HEADERS = ["Kod", "Açıklama", "Tutar"]
 CONTROL_RATE_DEFS: list[tuple[str, str, float]] = [
     ("min_kontrolluk", "Asgari kontrollük ücreti", 2660.0),
+    ("mahkeme_infazi", "Mahkeme Kararları İnfazı", 3108.0),
     ("parselasyon_ha_1", "Parselasyon 0-100.000 m² (ha)", 3177.0),
     ("parselasyon_ha_2", "Parselasyon 100.000-500.000 m² (ha)", 2678.0),
     ("parselasyon_ha_3", "Parselasyon 500.000-1.000.000 m² (ha)", 2347.0),
@@ -955,7 +957,24 @@ class KadastroDesktopApp(tk.Tk):
         self.year_var = tk.StringVar(value=str(self.selected_year))
 
         self.build_layout()
+        self.apply_app_icon()
         self.apply_theme()
+
+    def apply_app_icon(self) -> None:
+        icon_candidates = [
+            DEFAULT_ICON_PATH,
+            resource_path("icon.png"),
+            Path("icon.png"),
+        ]
+        for path in icon_candidates:
+            try:
+                if not path or not path.exists():
+                    continue
+                self._app_icon_img = tk.PhotoImage(file=str(path))  # type: ignore[attr-defined]
+                self.iconphoto(True, self._app_icon_img)  # type: ignore[attr-defined]
+                return
+            except Exception:
+                continue
 
     def load_settings(self) -> dict:
         if SETTINGS_FILE.exists():
@@ -1230,7 +1249,10 @@ class KadastroDesktopApp(tk.Tk):
 
         intro = ttk.Frame(wrapper)
         intro.pack(fill="x", pady=(0, 10))
-        ttk.Label(intro, text="Teknik Bilgi-Belge Hesaplama", style="Info.TLabel").pack(anchor="w")
+        ttk.Label(intro, text="Teknik Bilgi-Belge Hesaplama", style="Info.TLabel").pack(side="left", anchor="w")
+        self.mahkeme_infaz_label = ttk.Label(intro, text="", style="Muted.TLabel")
+        self.mahkeme_infaz_label.pack(side="left", padx=(14, 0))
+        self.refresh_mahkeme_infaz_label()
 
         content = ttk.Frame(wrapper)
         content.pack(fill="both", expand=True)
@@ -1374,7 +1396,12 @@ class KadastroDesktopApp(tk.Tk):
         self.theme_targets.append(self.technical_details)
         self.technical_details.insert("1.0", "Hesaplama sonucu burada görünecek.")
         self.last_technical_report: dict | None = None
-        self.last_pdf_form_data: dict[str, str] = {}
+        self.last_pdf_form_data: dict[str, object] = {}
+
+    def refresh_mahkeme_infaz_label(self) -> None:
+        if hasattr(self, "mahkeme_infaz_label"):
+            value = self.get_rate("mahkeme_infazi")
+            self.mahkeme_infaz_label.configure(text=f"Mahkeme Kararları İnfazı: {tr_money(value)}")
 
     def add_other_item(self) -> None:
         label = self.other_item_var.get().strip()
@@ -1577,20 +1604,48 @@ class KadastroDesktopApp(tk.Tk):
                 return candidate
         return None
 
-    def default_pdf_form_data(self) -> dict[str, str]:
+    def default_pdf_form_data(self) -> dict[str, object]:
         report = self.last_technical_report or {}
+        stored_rows = self.last_pdf_form_data.get("parcel_rows", [])
+        parcel_rows = self.normalize_pdf_parcel_rows(stored_rows)
+        if not parcel_rows:
+            parcel_rows = [
+                {
+                    "mahalle_koy": self.last_pdf_form_data.get("mahalle_koy", ""),
+                    "pafta_no": self.last_pdf_form_data.get("pafta_no", ""),
+                    "ada_no": self.last_pdf_form_data.get("ada_no", ""),
+                    "parsel_no": self.last_pdf_form_data.get("parsel_no", ""),
+                    "yuzolcumu": self.last_pdf_form_data.get("yuzolcumu", ""),
+                }
+            ]
         return {
-            "mahalle_koy": self.last_pdf_form_data.get("mahalle_koy", ""),
-            "pafta_no": self.last_pdf_form_data.get("pafta_no", ""),
-            "ada_no": self.last_pdf_form_data.get("ada_no", ""),
-            "parsel_no": self.last_pdf_form_data.get("parsel_no", ""),
-            "yuzolcumu": self.last_pdf_form_data.get("yuzolcumu", ""),
+            "parcel_rows": parcel_rows,
+            "arz_oncesi": self.last_pdf_form_data.get("arz_oncesi", ""),
             "harita_kadastro_muh": self.last_pdf_form_data.get("harita_kadastro_muh", ""),
             "tasinmaz_sahibi": self.last_pdf_form_data.get("tasinmaz_sahibi", ""),
             "teslim_eden": self.last_pdf_form_data.get("teslim_eden", ""),
             "teslim_alan": self.last_pdf_form_data.get("teslim_alan", ""),
             "mudurluk": str(report.get("mudurluk") or ""),
         }
+
+    @staticmethod
+    def normalize_pdf_parcel_rows(rows: object) -> list[dict[str, str]]:
+        out: list[dict[str, str]] = []
+        if not isinstance(rows, list):
+            return out
+        for row in rows:
+            if not isinstance(row, dict):
+                continue
+            normalized = {
+                "mahalle_koy": str(row.get("mahalle_koy", "")).strip(),
+                "pafta_no": str(row.get("pafta_no", "")).strip(),
+                "ada_no": str(row.get("ada_no", "")).strip(),
+                "parsel_no": str(row.get("parsel_no", "")).strip(),
+                "yuzolcumu": str(row.get("yuzolcumu", "")).strip(),
+            }
+            if any(normalized.values()):
+                out.append(normalized)
+        return out
 
     def open_pdf_form_dialog(self) -> None:
         if not self.last_technical_report:
@@ -1630,22 +1685,55 @@ class KadastroDesktopApp(tk.Tk):
         form_wrap = ttk.Frame(card, padding=12)
         form_wrap.pack(fill="both", expand=True)
 
-        vars_data = {key: tk.StringVar(value=value) for key, value in self.default_pdf_form_data().items()}
+        defaults = self.default_pdf_form_data()
+        vars_data = {
+            key: tk.StringVar(value=str(value))
+            for key, value in defaults.items()
+            if key not in {"parcel_rows"}
+        }
         self._pdf_form_vars = vars_data
+        self._pdf_row_vars: list[dict[str, tk.StringVar]] = []
 
         top_section = ttk.LabelFrame(form_wrap, text="Taşınmaz Bilgileri", padding=10)
         top_section.pack(fill="x")
-
-        row_fields = [
-            ("MAHALLE / KÖY", "mahalle_koy", 34),
-            ("PAFTA NO", "pafta_no", 16),
-            ("ADA NO", "ada_no", 16),
-            ("PARSEL NO", "parsel_no", 16),
-            ("YÜZÖLÇÜMÜ", "yuzolcumu", 18),
-        ]
-        for col, (label, key, width) in enumerate(row_fields):
+        row_fields = [("MAHALLE / KÖY", 30), ("PAFTA NO", 12), ("ADA NO", 12), ("PARSEL NO", 12), ("YÜZÖLÇÜMÜ", 14)]
+        for col, (label, _) in enumerate(row_fields):
             ttk.Label(top_section, text=label).grid(row=0, column=col, sticky="w", padx=(0, 8), pady=(0, 4))
-            ttk.Entry(top_section, textvariable=vars_data[key], width=width).grid(row=1, column=col, sticky="w", padx=(0, 8), pady=(0, 6))
+        row_host = ttk.Frame(top_section)
+        row_host.grid(row=1, column=0, columnspan=5, sticky="w")
+        self._pdf_rows_host = row_host
+
+        def add_row(default_row: dict[str, str] | None = None) -> None:
+            host = self._pdf_rows_host
+            row_index = len(self._pdf_row_vars)
+            defaults_row = default_row or {}
+            row_vars = {
+                "mahalle_koy": tk.StringVar(value=str(defaults_row.get("mahalle_koy", ""))),
+                "pafta_no": tk.StringVar(value=str(defaults_row.get("pafta_no", ""))),
+                "ada_no": tk.StringVar(value=str(defaults_row.get("ada_no", ""))),
+                "parsel_no": tk.StringVar(value=str(defaults_row.get("parsel_no", ""))),
+                "yuzolcumu": tk.StringVar(value=str(defaults_row.get("yuzolcumu", ""))),
+            }
+            ttk.Entry(host, textvariable=row_vars["mahalle_koy"], width=30).grid(row=row_index, column=0, sticky="w", padx=(0, 8), pady=3)
+            ttk.Entry(host, textvariable=row_vars["pafta_no"], width=12).grid(row=row_index, column=1, sticky="w", padx=(0, 8), pady=3)
+            ttk.Entry(host, textvariable=row_vars["ada_no"], width=12).grid(row=row_index, column=2, sticky="w", padx=(0, 8), pady=3)
+            ttk.Entry(host, textvariable=row_vars["parsel_no"], width=12).grid(row=row_index, column=3, sticky="w", padx=(0, 8), pady=3)
+            ttk.Entry(host, textvariable=row_vars["yuzolcumu"], width=14).grid(row=row_index, column=4, sticky="w", padx=(0, 8), pady=3)
+            self._pdf_row_vars.append(row_vars)
+
+        for row in defaults.get("parcel_rows", []) if isinstance(defaults.get("parcel_rows"), list) else []:
+            add_row(row if isinstance(row, dict) else None)
+        if not self._pdf_row_vars:
+            add_row()
+
+        row_actions = ttk.Frame(top_section)
+        row_actions.grid(row=2, column=0, columnspan=5, sticky="w", pady=(6, 0))
+        ttk.Button(row_actions, text="+", width=4, style="Primary.TButton", command=lambda: add_row()).pack(side="left")
+
+        arz_section = ttk.LabelFrame(form_wrap, text="Talep Metni", padding=10)
+        arz_section.pack(fill="x", pady=(10, 0))
+        ttk.Label(arz_section, text="Metin:").grid(row=0, column=0, sticky="w")
+        ttk.Entry(arz_section, textvariable=vars_data["arz_oncesi"], width=86).grid(row=1, column=0, sticky="w", pady=(4, 0))
 
         sign_section = ttk.LabelFrame(form_wrap, text="İmza ve Sorumlu Alanları", padding=10)
         sign_section.pack(fill="x", pady=(10, 0))
@@ -1671,6 +1759,18 @@ class KadastroDesktopApp(tk.Tk):
             return
         vars_data = getattr(self, "_pdf_form_vars", {})
         form_data = {k: str(v.get()).strip() for k, v in vars_data.items() if hasattr(v, "get")}
+        parcel_rows: list[dict[str, str]] = []
+        for row_vars in getattr(self, "_pdf_row_vars", []):
+            row = {
+                "mahalle_koy": row_vars["mahalle_koy"].get().strip(),
+                "pafta_no": row_vars["pafta_no"].get().strip(),
+                "ada_no": row_vars["ada_no"].get().strip(),
+                "parsel_no": row_vars["parsel_no"].get().strip(),
+                "yuzolcumu": row_vars["yuzolcumu"].get().strip(),
+            }
+            if any(row.values()):
+                parcel_rows.append(row)
+        form_data["parcel_rows"] = parcel_rows
         self.last_pdf_form_data = form_data
 
         default_name = f"teknik_bilgi_belge_{datetime.now().strftime('%Y%m%d_%H%M')}.pdf"
@@ -1691,7 +1791,7 @@ class KadastroDesktopApp(tk.Tk):
         except Exception as exc:
             messagebox.showerror("Hata", str(exc))
 
-    def create_technical_pdf(self, path: Path, form_data: dict[str, str] | None = None) -> None:
+    def create_technical_pdf(self, path: Path, form_data: dict[str, object] | None = None) -> None:
         if not self.last_technical_report:
             raise RuntimeError("Rapor oluşturmak için önce hesaplama yapınız.")
         try:
@@ -1699,12 +1799,20 @@ class KadastroDesktopApp(tk.Tk):
             from reportlab.pdfgen import canvas
             from reportlab.lib.utils import ImageReader
         except Exception as exc:
-            raise RuntimeError("PDF kütüphanesi eksik (reportlab).") from exc
+            raise RuntimeError(
+                "PDF kütüphanesi eksik (reportlab). Lütfen `pip install reportlab` komutunu çalıştırın."
+            ) from exc
 
         report = self.last_technical_report
         data = self.default_pdf_form_data()
         if form_data:
             data.update({k: str(v or "") for k, v in form_data.items()})
+            if "parcel_rows" in form_data and isinstance(form_data["parcel_rows"], list):
+                data["parcel_rows"] = form_data["parcel_rows"]  # type: ignore[index]
+
+        parcel_rows = self.normalize_pdf_parcel_rows(data.get("parcel_rows", []))
+        if not parcel_rows:
+            parcel_rows = [{"mahalle_koy": "", "pafta_no": "", "ada_no": "", "parsel_no": "", "yuzolcumu": ""}]
 
         normal_font, bold_font = self.resolve_pdf_fonts()
         c = canvas.Canvas(str(path), pagesize=A4)
@@ -1748,16 +1856,21 @@ class KadastroDesktopApp(tk.Tk):
         c.drawCentredString((left + right) / 2 + 72, header_top - 58, "İSTEM BELGESİ VE TESLİM SENEDİ")
 
         info_top = header_top - header_height - 10
-        info_height = 116
-        c.rect(left, info_top - info_height, right - left, info_height)
-        c.line(left, info_top - 22, right, info_top - 22)
-        c.line(left, info_top - 42, right, info_top - 42)
-        c.line(left, info_top - 62, right, info_top - 62)
-        c.line(left, info_top - 82, right, info_top - 82)
+        parcel_row_count = max(4, len(parcel_rows))
+        row_h = 18
+        header_h = 22
+        parcel_table_bottom = info_top - header_h - (parcel_row_count * row_h)
+        info_height = header_h + (parcel_row_count * row_h) + 36 + 34
+        info_bottom = info_top - info_height
+        c.rect(left, info_bottom, right - left, info_height)
+        c.line(left, info_top - header_h, right, info_top - header_h)
+        for idx in range(parcel_row_count):
+            y_line = info_top - header_h - ((idx + 1) * row_h)
+            c.line(left, y_line, right, y_line)
 
         col_edges = [left, left + 170, left + 255, left + 336, left + 430, right]
         for x in col_edges[1:-1]:
-            c.line(x, info_top, x, info_top - 82)
+            c.line(x, info_top, x, parcel_table_bottom)
 
         c.setFont(bold_font, 8.4)
         headers = ["MAHALLE / KÖY", "PAFTA NO", "ADA NO", "PARSEL NO", "YÜZÖLÇÜMÜ"]
@@ -1766,34 +1879,41 @@ class KadastroDesktopApp(tk.Tk):
             c.drawString(x, info_top - 16, head)
 
         c.setFont(normal_font, 8.2)
-        c.drawString(left + 4, info_top - 36, data.get("mahalle_koy", ""))
-        c.drawString(col_edges[1] + 4, info_top - 36, data.get("pafta_no", ""))
-        c.drawString(col_edges[2] + 4, info_top - 36, data.get("ada_no", ""))
-        c.drawString(col_edges[3] + 4, info_top - 36, data.get("parsel_no", ""))
-        c.drawString(col_edges[4] + 4, info_top - 36, data.get("yuzolcumu", ""))
+        for idx, row in enumerate(parcel_rows[:parcel_row_count]):
+            y_row = info_top - header_h - 14 - (idx * row_h)
+            c.drawString(left + 4, y_row, row.get("mahalle_koy", ""))
+            c.drawString(col_edges[1] + 4, y_row, row.get("pafta_no", ""))
+            c.drawString(col_edges[2] + 4, y_row, row.get("ada_no", ""))
+            c.drawString(col_edges[3] + 4, y_row, row.get("parsel_no", ""))
+            c.drawString(col_edges[4] + 4, y_row, row.get("yuzolcumu", ""))
 
-        request_line = "kullanacağından, suretinin verilmesini arz ederim."
-        c.drawString(left + 4, info_top - 98, request_line)
-        c.drawRightString(right - 6, info_top - 98, report["date"].strftime("%d/%m/%Y"))
-        c.drawCentredString(left + 130, info_top - 108, "Sorumlu")
-        c.drawCentredString(left + 130, info_top - 121, data.get("harita_kadastro_muh", "") or "Harita Kadastro Mühendisi")
-        c.drawCentredString(right - 125, info_top - 108, "Taşınmaz Sahibi")
-        c.drawCentredString(right - 125, info_top - 121, data.get("tasinmaz_sahibi", "") or "veya Vekili")
+        request_prefix = str(data.get("arz_oncesi", "")).strip()
+        request_line = "işleminde kullanacağımdan teknik bilgi ve belgenin tarafıma verilmesini arz ederim."
+        if request_prefix:
+            request_line = f"{request_prefix} {request_line}"
+        request_line = request_line[:160]
+        request_y = parcel_table_bottom - 16
+        c.drawString(left + 4, request_y, request_line)
+        c.drawRightString(right - 6, request_y, report["date"].strftime("%d/%m/%Y"))
+        c.drawCentredString(left + 130, request_y - 14, "Sorumlu")
+        c.drawCentredString(left + 130, request_y - 27, data.get("harita_kadastro_muh", "") or "Harita Kadastro Mühendisi")
+        c.drawCentredString(right - 125, request_y - 14, "Taşınmaz Sahibi")
+        c.drawCentredString(right - 125, request_y - 27, data.get("tasinmaz_sahibi", "") or "veya Vekili")
 
-        table_top = info_top - info_height - 18
+        table_top = info_bottom - 18
         c.setFont(bold_font, 10.2)
         c.drawString(left, table_top, "TESLİM SENEDİ")
         table_y = table_top - 8
         table_height = 318
         c.rect(left, table_y - table_height, right - left, table_height)
 
-        column_edges = [left, left + 255, left + 310, left + 420, left + 512, right]
+        column_edges = [left, left + 225, left + 280, left + 412, right]
         for edge in column_edges[1:-1]:
             c.line(edge, table_y, edge, table_y - table_height)
         c.line(left, table_y - 20, right, table_y - 20)
 
         c.setFont(bold_font, 8.8)
-        col_headers = ["CİNSİ", "ADEDİ", "BİRİM FİYATI", "TOPLAM FİYATI", "DÜŞÜNCELER"]
+        col_headers = ["CİNSİ", "ADEDİ", "BİRİM FİYATI", "TOPLAM FİYATI"]
         for i, title in enumerate(col_headers):
             c.drawString(column_edges[i] + 4, table_y - 14, title)
 
@@ -1809,10 +1929,10 @@ class KadastroDesktopApp(tk.Tk):
             c.line(left, y - 4, right, y - 4)
             y -= 16
 
-        total_line_y = table_y - table_height + 34
+        total_line_y = table_y - table_height + 26
         c.setFont(bold_font, 10)
-        c.drawRightString(column_edges[4] - 6, total_line_y, "Toplam")
-        c.drawRightString(right - 6, total_line_y, tr_money(round_lira(report["total"])))
+        c.drawString(left + 6, total_line_y, "Toplam")
+        c.drawRightString(right - 8, total_line_y, tr_money(round_lira(report["total"])))
 
         note_y = table_y - table_height + 16
         c.setFont(normal_font, 8.1)
@@ -1834,8 +1954,7 @@ class KadastroDesktopApp(tk.Tk):
             c.drawString(left + 230, sign_y - 14, data["teslim_alan"])
         c.setFont(bold_font, 9)
         c.drawString(left + 420, sign_y - 14, data.get("mudurluk", str(report.get("mudurluk") or "Kadastro Müdürlüğü")))
-        c.setFont(normal_font, 7.2)
-        c.drawString(left, bottom - 6, REV_FOOTER_TEXT)
+        # Kullanıcı talebi doğrultusunda revizyon satırı PDF'te gizli tutulur.
         c.save()
 
     def save_technical_pdf(self) -> None:
@@ -2926,6 +3045,7 @@ class KadastroDesktopApp(tk.Tk):
                     values=(info["bolge"], il, ilce, f'{info["tapu"]:g}', f'{info["kadastro"]:g}'),
                 )
         self.refresh_rate_ui()
+        self.refresh_mahkeme_infaz_label()
 
     def refresh_rate_ui(self) -> None:
         if not hasattr(self, "rate_tree"):
@@ -2955,7 +3075,7 @@ class KadastroDesktopApp(tk.Tk):
         target = filedialog.asksaveasfilename(
             title="Excel Şablonu Kaydet",
             defaultextension=".xlsx",
-            initialfile="yoresel_katsayi_sablonu.xlsx",
+            initialfile="Katsayi_Harc.xlsx",
             filetypes=[("Excel", "*.xlsx")],
         )
         if not target:
@@ -3062,6 +3182,7 @@ class KadastroDesktopApp(tk.Tk):
         self.rebuild_data()
         self.refresh_control_iller()
         self.refresh_admin_ui()
+        self.refresh_mahkeme_infaz_label()
         messagebox.showinfo(
             "Bilgi",
             (
@@ -3198,6 +3319,7 @@ class KadastroDesktopApp(tk.Tk):
             self.settings["control_rates"] = self.control_rates
             self.save_settings()
             self.refresh_rate_ui()
+            self.refresh_mahkeme_infaz_label()
             dialog.destroy()
             messagebox.showinfo("Bilgi", f"{code} tutarı güncellendi.")
 
