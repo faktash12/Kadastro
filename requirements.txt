@@ -1,0 +1,5 @@
+streamlit==1.51.0
+pandas==2.3.3
+pyinstaller==6.20.0
+reportlab==4.4.4
+openpyxl==3.1.5
