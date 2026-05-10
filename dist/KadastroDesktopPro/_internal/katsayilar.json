@@ -1,0 +1,7794 @@
+[
+  {
+    "sira": 1,
+    "bolge": "ANKARA",
+    "il": "ANKARA",
+    "ilce": "AKYURT",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 2,
+    "bolge": "ANKARA",
+    "il": "ANKARA",
+    "ilce": "ALTINDAĞ",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 3,
+    "bolge": "ANKARA",
+    "il": "ANKARA",
+    "ilce": "AYAŞ",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 4,
+    "bolge": "ANKARA",
+    "il": "ANKARA",
+    "ilce": "BALA",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 5,
+    "bolge": "ANKARA",
+    "il": "ANKARA",
+    "ilce": "BEYPAZARI",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 6,
+    "bolge": "ANKARA",
+    "il": "ANKARA",
+    "ilce": "ÇAMLIDERE",
+    "tapu": 1.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 7,
+    "bolge": "ANKARA",
+    "il": "ANKARA",
+    "ilce": "ÇANKAYA",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 8,
+    "bolge": "ANKARA",
+    "il": "ANKARA",
+    "ilce": "ÇUBUK",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 9,
+    "bolge": "ANKARA",
+    "il": "ANKARA",
+    "ilce": "ELMADAĞ",
+    "tapu": 2.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 10,
+    "bolge": "ANKARA",
+    "il": "ANKARA",
+    "ilce": "ETİMESGUT",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 11,
+    "bolge": "ANKARA",
+    "il": "ANKARA",
+    "ilce": "EVREN",
+    "tapu": 1.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 12,
+    "bolge": "ANKARA",
+    "il": "ANKARA",
+    "ilce": "GÖLBAŞI (ANKARA)",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 13,
+    "bolge": "ANKARA",
+    "il": "ANKARA",
+    "ilce": "GÜDÜL",
+    "tapu": 2.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 14,
+    "bolge": "ANKARA",
+    "il": "ANKARA",
+    "ilce": "HAYMANA",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 15,
+    "bolge": "ANKARA",
+    "il": "ANKARA",
+    "ilce": "KAHRAMANKAZAN",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 16,
+    "bolge": "ANKARA",
+    "il": "ANKARA",
+    "ilce": "KALECİK",
+    "tapu": 1.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 17,
+    "bolge": "ANKARA",
+    "il": "ANKARA",
+    "ilce": "KEÇİÖREN",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 18,
+    "bolge": "ANKARA",
+    "il": "ANKARA",
+    "ilce": "KIZILCAHAMAM",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 19,
+    "bolge": "ANKARA",
+    "il": "ANKARA",
+    "ilce": "MAMAK",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 20,
+    "bolge": "ANKARA",
+    "il": "ANKARA",
+    "ilce": "NALLIHAN",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 21,
+    "bolge": "ANKARA",
+    "il": "ANKARA",
+    "ilce": "POLATLI",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 22,
+    "bolge": "ANKARA",
+    "il": "ANKARA",
+    "ilce": "PURSAKLAR",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 23,
+    "bolge": "ANKARA",
+    "il": "ANKARA",
+    "ilce": "SİNCAN",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 24,
+    "bolge": "ANKARA",
+    "il": "ANKARA",
+    "ilce": "ŞEREFLİKOÇHİSAR",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 25,
+    "bolge": "ANKARA",
+    "il": "ANKARA",
+    "ilce": "YENİMAHALLE",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 26,
+    "bolge": "ANKARA",
+    "il": "BOLU",
+    "ilce": "BOLU",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 27,
+    "bolge": "ANKARA",
+    "il": "BOLU",
+    "ilce": "DÖRTDİVAN",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 28,
+    "bolge": "ANKARA",
+    "il": "BOLU",
+    "ilce": "GEREDE",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 29,
+    "bolge": "ANKARA",
+    "il": "BOLU",
+    "ilce": "GÖYNÜK",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 30,
+    "bolge": "ANKARA",
+    "il": "BOLU",
+    "ilce": "KIBRISCIK",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 31,
+    "bolge": "ANKARA",
+    "il": "BOLU",
+    "ilce": "MENGEN",
+    "tapu": 1.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 32,
+    "bolge": "ANKARA",
+    "il": "BOLU",
+    "ilce": "MUDURNU",
+    "tapu": 1.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 33,
+    "bolge": "ANKARA",
+    "il": "BOLU",
+    "ilce": "SEBEN",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 34,
+    "bolge": "ANKARA",
+    "il": "BOLU",
+    "ilce": "YENİÇAĞA",
+    "tapu": 1.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 35,
+    "bolge": "ANKARA",
+    "il": "ÇANKIRI",
+    "ilce": "ATKARACALAR",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 36,
+    "bolge": "ANKARA",
+    "il": "ÇANKIRI",
+    "ilce": "BAYRAMÖREN",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 37,
+    "bolge": "ANKARA",
+    "il": "ÇANKIRI",
+    "ilce": "ÇANKIRI",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 38,
+    "bolge": "ANKARA",
+    "il": "ÇANKIRI",
+    "ilce": "ÇERKEŞ",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 39,
+    "bolge": "ANKARA",
+    "il": "ÇANKIRI",
+    "ilce": "ELDİVAN",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 40,
+    "bolge": "ANKARA",
+    "il": "ÇANKIRI",
+    "ilce": "ILGAZ",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 41,
+    "bolge": "ANKARA",
+    "il": "ÇANKIRI",
+    "ilce": "KIZILIRMAK",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 42,
+    "bolge": "ANKARA",
+    "il": "ÇANKIRI",
+    "ilce": "KORGUN",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 43,
+    "bolge": "ANKARA",
+    "il": "ÇANKIRI",
+    "ilce": "KURŞUNLU",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 44,
+    "bolge": "ANKARA",
+    "il": "ÇANKIRI",
+    "ilce": "ORTA",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 45,
+    "bolge": "ANKARA",
+    "il": "ÇANKIRI",
+    "ilce": "ŞABANÖZÜ",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 46,
+    "bolge": "ANKARA",
+    "il": "ÇANKIRI",
+    "ilce": "YAPRAKLI",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 47,
+    "bolge": "ANKARA",
+    "il": "DÜZCE",
+    "ilce": "AKÇAKOCA",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 48,
+    "bolge": "ANKARA",
+    "il": "DÜZCE",
+    "ilce": "CUMAYERİ",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 49,
+    "bolge": "ANKARA",
+    "il": "DÜZCE",
+    "ilce": "ÇİLİMLİ",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 50,
+    "bolge": "ANKARA",
+    "il": "DÜZCE",
+    "ilce": "DÜZCE",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 51,
+    "bolge": "ANKARA",
+    "il": "DÜZCE",
+    "ilce": "GÖLYAKA",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 52,
+    "bolge": "ANKARA",
+    "il": "DÜZCE",
+    "ilce": "GÜMÜŞOVA",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 53,
+    "bolge": "ANKARA",
+    "il": "DÜZCE",
+    "ilce": "KAYNAŞLI",
+    "tapu": 1.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 54,
+    "bolge": "ANKARA",
+    "il": "DÜZCE",
+    "ilce": "YIĞILCA",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 55,
+    "bolge": "ANKARA",
+    "il": "KIRIKKALE",
+    "ilce": "BAHŞİLİ",
+    "tapu": 1.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 56,
+    "bolge": "ANKARA",
+    "il": "KIRIKKALE",
+    "ilce": "BALIŞEYH",
+    "tapu": 1.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 57,
+    "bolge": "ANKARA",
+    "il": "KIRIKKALE",
+    "ilce": "ÇELEBİ",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 58,
+    "bolge": "ANKARA",
+    "il": "KIRIKKALE",
+    "ilce": "DELİCE",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 59,
+    "bolge": "ANKARA",
+    "il": "KIRIKKALE",
+    "ilce": "KARAKEÇİLİ",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 60,
+    "bolge": "ANKARA",
+    "il": "KIRIKKALE",
+    "ilce": "KESKİN",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 61,
+    "bolge": "ANKARA",
+    "il": "KIRIKKALE",
+    "ilce": "KIRIKKALE",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 62,
+    "bolge": "ANKARA",
+    "il": "KIRIKKALE",
+    "ilce": "SULAKYURT",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 63,
+    "bolge": "ANKARA",
+    "il": "KIRIKKALE",
+    "ilce": "YAHŞİHAN",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 64,
+    "bolge": "ANTALYA",
+    "il": "ANTALYA",
+    "ilce": "AKSEKİ",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 65,
+    "bolge": "ANTALYA",
+    "il": "ANTALYA",
+    "ilce": "AKSU (ANTALYA)",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 66,
+    "bolge": "ANTALYA",
+    "il": "ANTALYA",
+    "ilce": "ALANYA",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 67,
+    "bolge": "ANTALYA",
+    "il": "ANTALYA",
+    "ilce": "DEMRE",
+    "tapu": 2.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 68,
+    "bolge": "ANTALYA",
+    "il": "ANTALYA",
+    "ilce": "DÖŞEMEALTI",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 69,
+    "bolge": "ANTALYA",
+    "il": "ANTALYA",
+    "ilce": "ELMALI",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 70,
+    "bolge": "ANTALYA",
+    "il": "ANTALYA",
+    "ilce": "FİNİKE",
+    "tapu": 2.5,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 71,
+    "bolge": "ANTALYA",
+    "il": "ANTALYA",
+    "ilce": "GAZİPAŞA",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 72,
+    "bolge": "ANTALYA",
+    "il": "ANTALYA",
+    "ilce": "GÜNDOĞMUŞ",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 73,
+    "bolge": "ANTALYA",
+    "il": "ANTALYA",
+    "ilce": "İBRADI",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 74,
+    "bolge": "ANTALYA",
+    "il": "ANTALYA",
+    "ilce": "KAŞ",
+    "tapu": 2.5,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 75,
+    "bolge": "ANTALYA",
+    "il": "ANTALYA",
+    "ilce": "KEMER (ANTALYA)",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 76,
+    "bolge": "ANTALYA",
+    "il": "ANTALYA",
+    "ilce": "KEPEZ",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 77,
+    "bolge": "ANTALYA",
+    "il": "ANTALYA",
+    "ilce": "KONYAALTI",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 78,
+    "bolge": "ANTALYA",
+    "il": "ANTALYA",
+    "ilce": "KORKUTELİ",
+    "tapu": 2.5,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 79,
+    "bolge": "ANTALYA",
+    "il": "ANTALYA",
+    "ilce": "KUMLUCA",
+    "tapu": 2.5,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 80,
+    "bolge": "ANTALYA",
+    "il": "ANTALYA",
+    "ilce": "MANAVGAT",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 81,
+    "bolge": "ANTALYA",
+    "il": "ANTALYA",
+    "ilce": "MURATPAŞA",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 82,
+    "bolge": "ANTALYA",
+    "il": "ANTALYA",
+    "ilce": "SERİK",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 83,
+    "bolge": "ANTALYA",
+    "il": "BURDUR",
+    "ilce": "AĞLASUN",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 84,
+    "bolge": "ANTALYA",
+    "il": "BURDUR",
+    "ilce": "ALTINYAYLA (BURDUR)",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 85,
+    "bolge": "ANTALYA",
+    "il": "BURDUR",
+    "ilce": "BUCAK",
+    "tapu": 2.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 86,
+    "bolge": "ANTALYA",
+    "il": "BURDUR",
+    "ilce": "BURDUR",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 87,
+    "bolge": "ANTALYA",
+    "il": "BURDUR",
+    "ilce": "ÇAVDIR",
+    "tapu": 1.5,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 88,
+    "bolge": "ANTALYA",
+    "il": "BURDUR",
+    "ilce": "ÇELTİKÇİ",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 89,
+    "bolge": "ANTALYA",
+    "il": "BURDUR",
+    "ilce": "GÖLHİSAR",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 90,
+    "bolge": "ANTALYA",
+    "il": "BURDUR",
+    "ilce": "KARAMANLI",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 91,
+    "bolge": "ANTALYA",
+    "il": "BURDUR",
+    "ilce": "KEMER (BURDUR)",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 92,
+    "bolge": "ANTALYA",
+    "il": "BURDUR",
+    "ilce": "TEFENNİ",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 93,
+    "bolge": "ANTALYA",
+    "il": "BURDUR",
+    "ilce": "YEŞİLOVA",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 94,
+    "bolge": "ANTALYA",
+    "il": "ISPARTA",
+    "ilce": "AKSU (ISPARTA)",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 95,
+    "bolge": "ANTALYA",
+    "il": "ISPARTA",
+    "ilce": "ATABEY",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 96,
+    "bolge": "ANTALYA",
+    "il": "ISPARTA",
+    "ilce": "EĞİRDİR",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 97,
+    "bolge": "ANTALYA",
+    "il": "ISPARTA",
+    "ilce": "GELENDOST",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 98,
+    "bolge": "ANTALYA",
+    "il": "ISPARTA",
+    "ilce": "GÖNEN (ISPARTA)",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 99,
+    "bolge": "ANTALYA",
+    "il": "ISPARTA",
+    "ilce": "ISPARTA",
+    "tapu": 3.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 100,
+    "bolge": "ANTALYA",
+    "il": "ISPARTA",
+    "ilce": "KEÇİBORLU",
+    "tapu": 2.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 101,
+    "bolge": "ANTALYA",
+    "il": "ISPARTA",
+    "ilce": "SENİRKENT",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 102,
+    "bolge": "ANTALYA",
+    "il": "ISPARTA",
+    "ilce": "SÜTÇÜLER",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 103,
+    "bolge": "ANTALYA",
+    "il": "ISPARTA",
+    "ilce": "ŞARKİKARAAĞAÇ",
+    "tapu": 2.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 104,
+    "bolge": "ANTALYA",
+    "il": "ISPARTA",
+    "ilce": "ULUBORLU",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 105,
+    "bolge": "ANTALYA",
+    "il": "ISPARTA",
+    "ilce": "YALVAÇ",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 106,
+    "bolge": "ANTALYA",
+    "il": "ISPARTA",
+    "ilce": "YENİŞARBADEMLİ",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 107,
+    "bolge": "BURSA",
+    "il": "BALIKESİR",
+    "ilce": "ALTIEYLÜL",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 108,
+    "bolge": "BURSA",
+    "il": "BALIKESİR",
+    "ilce": "AYVALIK",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 109,
+    "bolge": "BURSA",
+    "il": "BALIKESİR",
+    "ilce": "BALYA",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 110,
+    "bolge": "BURSA",
+    "il": "BALIKESİR",
+    "ilce": "BANDIRMA",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 111,
+    "bolge": "BURSA",
+    "il": "BALIKESİR",
+    "ilce": "BİGADİÇ",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 112,
+    "bolge": "BURSA",
+    "il": "BALIKESİR",
+    "ilce": "BURHANİYE",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 113,
+    "bolge": "BURSA",
+    "il": "BALIKESİR",
+    "ilce": "DURSUNBEY",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 114,
+    "bolge": "BURSA",
+    "il": "BALIKESİR",
+    "ilce": "EDREMİT(BALIKESİR)",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 115,
+    "bolge": "BURSA",
+    "il": "BALIKESİR",
+    "ilce": "ERDEK",
+    "tapu": 2.5,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 116,
+    "bolge": "BURSA",
+    "il": "BALIKESİR",
+    "ilce": "GÖMEÇ",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 117,
+    "bolge": "BURSA",
+    "il": "BALIKESİR",
+    "ilce": "GÖNEN(BALIKESİR)",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 118,
+    "bolge": "BURSA",
+    "il": "BALIKESİR",
+    "ilce": "HAVRAN",
+    "tapu": 2.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 119,
+    "bolge": "BURSA",
+    "il": "BALIKESİR",
+    "ilce": "İVRİNDİ",
+    "tapu": 1.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 120,
+    "bolge": "BURSA",
+    "il": "BALIKESİR",
+    "ilce": "KARESİ",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 121,
+    "bolge": "BURSA",
+    "il": "BALIKESİR",
+    "ilce": "KEPSUT",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 122,
+    "bolge": "BURSA",
+    "il": "BALIKESİR",
+    "ilce": "MANYAS",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 123,
+    "bolge": "BURSA",
+    "il": "BALIKESİR",
+    "ilce": "MARMARA",
+    "tapu": 2.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 124,
+    "bolge": "BURSA",
+    "il": "BALIKESİR",
+    "ilce": "SAVAŞTEPE",
+    "tapu": 1.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 125,
+    "bolge": "BURSA",
+    "il": "BALIKESİR",
+    "ilce": "SINDIRGI",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 126,
+    "bolge": "BURSA",
+    "il": "BALIKESİR",
+    "ilce": "SUSURLUK",
+    "tapu": 2.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 127,
+    "bolge": "BURSA",
+    "il": "BURSA",
+    "ilce": "BÜYÜKORHAN",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 128,
+    "bolge": "BURSA",
+    "il": "BURSA",
+    "ilce": "GEMLİK",
+    "tapu": 2.5,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 129,
+    "bolge": "BURSA",
+    "il": "BURSA",
+    "ilce": "GÜRSU",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 130,
+    "bolge": "BURSA",
+    "il": "BURSA",
+    "ilce": "HARMANCIK",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 131,
+    "bolge": "BURSA",
+    "il": "BURSA",
+    "ilce": "İNEGÖL",
+    "tapu": 3.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 132,
+    "bolge": "BURSA",
+    "il": "BURSA",
+    "ilce": "İZNİK",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 133,
+    "bolge": "BURSA",
+    "il": "BURSA",
+    "ilce": "KARACABEY",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 134,
+    "bolge": "BURSA",
+    "il": "BURSA",
+    "ilce": "KELES",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 135,
+    "bolge": "BURSA",
+    "il": "BURSA",
+    "ilce": "KESTEL",
+    "tapu": 3.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 136,
+    "bolge": "BURSA",
+    "il": "BURSA",
+    "ilce": "MUDANYA",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 137,
+    "bolge": "BURSA",
+    "il": "BURSA",
+    "ilce": "MUSTAFAKEMALPAŞA",
+    "tapu": 2.5,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 138,
+    "bolge": "BURSA",
+    "il": "BURSA",
+    "ilce": "NİLÜFER",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 139,
+    "bolge": "BURSA",
+    "il": "BURSA",
+    "ilce": "ORHANELİ",
+    "tapu": 1.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 140,
+    "bolge": "BURSA",
+    "il": "BURSA",
+    "ilce": "ORHANGAZİ",
+    "tapu": 2.5,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 141,
+    "bolge": "BURSA",
+    "il": "BURSA",
+    "ilce": "OSMANGAZİ",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 142,
+    "bolge": "BURSA",
+    "il": "BURSA",
+    "ilce": "YENİŞEHİR(BURSA)",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 143,
+    "bolge": "BURSA",
+    "il": "BURSA",
+    "ilce": "YILDIRIM",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 144,
+    "bolge": "BURSA",
+    "il": "ÇANAKKALE",
+    "ilce": "AYVACIK(ÇANAKKALE)",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 145,
+    "bolge": "BURSA",
+    "il": "ÇANAKKALE",
+    "ilce": "BAYRAMİÇ",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 146,
+    "bolge": "BURSA",
+    "il": "ÇANAKKALE",
+    "ilce": "BİGA",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 147,
+    "bolge": "BURSA",
+    "il": "ÇANAKKALE",
+    "ilce": "BOZCAADA",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 148,
+    "bolge": "BURSA",
+    "il": "ÇANAKKALE",
+    "ilce": "ÇAN",
+    "tapu": 2.0,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 149,
+    "bolge": "BURSA",
+    "il": "ÇANAKKALE",
+    "ilce": "ÇANAKKALE",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 150,
+    "bolge": "BURSA",
+    "il": "ÇANAKKALE",
+    "ilce": "ECEABAT",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 151,
+    "bolge": "BURSA",
+    "il": "ÇANAKKALE",
+    "ilce": "EZİNE",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 152,
+    "bolge": "BURSA",
+    "il": "ÇANAKKALE",
+    "ilce": "GELİBOLU",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 153,
+    "bolge": "BURSA",
+    "il": "ÇANAKKALE",
+    "ilce": "GÖKÇEADA",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 154,
+    "bolge": "BURSA",
+    "il": "ÇANAKKALE",
+    "ilce": "LAPSEKİ",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 155,
+    "bolge": "BURSA",
+    "il": "ÇANAKKALE",
+    "ilce": "YENİCE (ÇANAKKALE)",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 156,
+    "bolge": "BURSA",
+    "il": "YALOVA",
+    "ilce": "ALTINOVA",
+    "tapu": 2.5,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 157,
+    "bolge": "BURSA",
+    "il": "YALOVA",
+    "ilce": "ARMUTLU",
+    "tapu": 2.5,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 158,
+    "bolge": "BURSA",
+    "il": "YALOVA",
+    "ilce": "ÇINARCIK",
+    "tapu": 2.5,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 159,
+    "bolge": "BURSA",
+    "il": "YALOVA",
+    "ilce": "ÇİFTLİKKÖY",
+    "tapu": 2.5,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 160,
+    "bolge": "BURSA",
+    "il": "YALOVA",
+    "ilce": "TERMAL",
+    "tapu": 2.5,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 161,
+    "bolge": "BURSA",
+    "il": "YALOVA",
+    "ilce": "YALOVA",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 162,
+    "bolge": "DENİZLİ",
+    "il": "DENİZLİ",
+    "ilce": "ACIPAYAM",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 163,
+    "bolge": "DENİZLİ",
+    "il": "DENİZLİ",
+    "ilce": "BABADAĞ",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 164,
+    "bolge": "DENİZLİ",
+    "il": "DENİZLİ",
+    "ilce": "BAKLAN",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 165,
+    "bolge": "DENİZLİ",
+    "il": "DENİZLİ",
+    "ilce": "BEKİLLİ",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 166,
+    "bolge": "DENİZLİ",
+    "il": "DENİZLİ",
+    "ilce": "BEYAĞAÇ",
+    "tapu": 1.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 167,
+    "bolge": "DENİZLİ",
+    "il": "DENİZLİ",
+    "ilce": "BOZKURT (DENİZLİ)",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 168,
+    "bolge": "DENİZLİ",
+    "il": "DENİZLİ",
+    "ilce": "BULDAN",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 169,
+    "bolge": "DENİZLİ",
+    "il": "DENİZLİ",
+    "ilce": "ÇAL",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 170,
+    "bolge": "DENİZLİ",
+    "il": "DENİZLİ",
+    "ilce": "ÇAMELİ",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 171,
+    "bolge": "DENİZLİ",
+    "il": "DENİZLİ",
+    "ilce": "ÇARDAK",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 172,
+    "bolge": "DENİZLİ",
+    "il": "DENİZLİ",
+    "ilce": "ÇİVRİL",
+    "tapu": 2.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 173,
+    "bolge": "DENİZLİ",
+    "il": "DENİZLİ",
+    "ilce": "GÜNEY",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 174,
+    "bolge": "DENİZLİ",
+    "il": "DENİZLİ",
+    "ilce": "HONAZ",
+    "tapu": 2.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 175,
+    "bolge": "DENİZLİ",
+    "il": "DENİZLİ",
+    "ilce": "KALE (DENİZLİ)",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 176,
+    "bolge": "DENİZLİ",
+    "il": "DENİZLİ",
+    "ilce": "MERKEZEFENDİ",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 177,
+    "bolge": "DENİZLİ",
+    "il": "DENİZLİ",
+    "ilce": "PAMUKKALE",
+    "tapu": 3.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 178,
+    "bolge": "DENİZLİ",
+    "il": "DENİZLİ",
+    "ilce": "SARAYKÖY",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 179,
+    "bolge": "DENİZLİ",
+    "il": "DENİZLİ",
+    "ilce": "SERİNHİSAR",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 180,
+    "bolge": "DENİZLİ",
+    "il": "DENİZLİ",
+    "ilce": "TAVAS",
+    "tapu": 2.5,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 181,
+    "bolge": "DENİZLİ",
+    "il": "MUĞLA",
+    "ilce": "BODRUM",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 182,
+    "bolge": "DENİZLİ",
+    "il": "MUĞLA",
+    "ilce": "DALAMAN",
+    "tapu": 2.5,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 183,
+    "bolge": "DENİZLİ",
+    "il": "MUĞLA",
+    "ilce": "DATÇA",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 184,
+    "bolge": "DENİZLİ",
+    "il": "MUĞLA",
+    "ilce": "FETHİYE",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 185,
+    "bolge": "DENİZLİ",
+    "il": "MUĞLA",
+    "ilce": "KAVAKLIDERE",
+    "tapu": 1.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 186,
+    "bolge": "DENİZLİ",
+    "il": "MUĞLA",
+    "ilce": "KÖYCEĞİZ",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 187,
+    "bolge": "DENİZLİ",
+    "il": "MUĞLA",
+    "ilce": "MARMARİS",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 188,
+    "bolge": "DENİZLİ",
+    "il": "MUĞLA",
+    "ilce": "MENTEŞE",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 189,
+    "bolge": "DENİZLİ",
+    "il": "MUĞLA",
+    "ilce": "MİLAS",
+    "tapu": 3.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 190,
+    "bolge": "DENİZLİ",
+    "il": "MUĞLA",
+    "ilce": "ORTACA",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 191,
+    "bolge": "DENİZLİ",
+    "il": "MUĞLA",
+    "ilce": "SEYDİKEMER",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 192,
+    "bolge": "DENİZLİ",
+    "il": "MUĞLA",
+    "ilce": "ULA",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 193,
+    "bolge": "DENİZLİ",
+    "il": "MUĞLA",
+    "ilce": "YATAĞAN",
+    "tapu": 2.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 194,
+    "bolge": "DENİZLİ",
+    "il": "UŞAK",
+    "ilce": "BANAZ",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 195,
+    "bolge": "DENİZLİ",
+    "il": "UŞAK",
+    "ilce": "EŞME",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 196,
+    "bolge": "DENİZLİ",
+    "il": "UŞAK",
+    "ilce": "KARAHALLI",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 197,
+    "bolge": "DENİZLİ",
+    "il": "UŞAK",
+    "ilce": "SİVASLI",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 198,
+    "bolge": "DENİZLİ",
+    "il": "UŞAK",
+    "ilce": "ULUBEY (UŞAK)",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 199,
+    "bolge": "DENİZLİ",
+    "il": "UŞAK",
+    "ilce": "UŞAK",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 200,
+    "bolge": "DİYARBAKIR",
+    "il": "BATMAN",
+    "ilce": "BATMAN",
+    "tapu": 2.5,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 201,
+    "bolge": "DİYARBAKIR",
+    "il": "BATMAN",
+    "ilce": "BEŞİRİ",
+    "tapu": 1.5,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 202,
+    "bolge": "DİYARBAKIR",
+    "il": "BATMAN",
+    "ilce": "GERCÜŞ",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 203,
+    "bolge": "DİYARBAKIR",
+    "il": "BATMAN",
+    "ilce": "HASANKEYF",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 204,
+    "bolge": "DİYARBAKIR",
+    "il": "BATMAN",
+    "ilce": "KOZLUK",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 205,
+    "bolge": "DİYARBAKIR",
+    "il": "BATMAN",
+    "ilce": "SASON",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 206,
+    "bolge": "DİYARBAKIR",
+    "il": "DİYARBAKIR",
+    "ilce": "BAĞLAR",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 207,
+    "bolge": "DİYARBAKIR",
+    "il": "DİYARBAKIR",
+    "ilce": "BİSMİL",
+    "tapu": 2.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 208,
+    "bolge": "DİYARBAKIR",
+    "il": "DİYARBAKIR",
+    "ilce": "ÇERMİK",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 209,
+    "bolge": "DİYARBAKIR",
+    "il": "DİYARBAKIR",
+    "ilce": "ÇINAR",
+    "tapu": 2.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 210,
+    "bolge": "DİYARBAKIR",
+    "il": "DİYARBAKIR",
+    "ilce": "ÇÜNGÜŞ",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 211,
+    "bolge": "DİYARBAKIR",
+    "il": "DİYARBAKIR",
+    "ilce": "DİCLE",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 212,
+    "bolge": "DİYARBAKIR",
+    "il": "DİYARBAKIR",
+    "ilce": "EĞİL",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 213,
+    "bolge": "DİYARBAKIR",
+    "il": "DİYARBAKIR",
+    "ilce": "ERGANİ",
+    "tapu": 2.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 214,
+    "bolge": "DİYARBAKIR",
+    "il": "DİYARBAKIR",
+    "ilce": "HANİ",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 215,
+    "bolge": "DİYARBAKIR",
+    "il": "DİYARBAKIR",
+    "ilce": "HAZRO",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 216,
+    "bolge": "DİYARBAKIR",
+    "il": "DİYARBAKIR",
+    "ilce": "KAYAPINAR",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 217,
+    "bolge": "DİYARBAKIR",
+    "il": "DİYARBAKIR",
+    "ilce": "KOCAKÖY",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 218,
+    "bolge": "DİYARBAKIR",
+    "il": "DİYARBAKIR",
+    "ilce": "KULP",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 219,
+    "bolge": "DİYARBAKIR",
+    "il": "DİYARBAKIR",
+    "ilce": "LİCE",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 220,
+    "bolge": "DİYARBAKIR",
+    "il": "DİYARBAKIR",
+    "ilce": "SİLVAN",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 221,
+    "bolge": "DİYARBAKIR",
+    "il": "DİYARBAKIR",
+    "ilce": "SUR",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 222,
+    "bolge": "DİYARBAKIR",
+    "il": "DİYARBAKIR",
+    "ilce": "YENİŞEHİR(DİYARBAKIR)",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 223,
+    "bolge": "DİYARBAKIR",
+    "il": "SİİRT",
+    "ilce": "BAYKAN",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 224,
+    "bolge": "DİYARBAKIR",
+    "il": "SİİRT",
+    "ilce": "ERUH",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 225,
+    "bolge": "DİYARBAKIR",
+    "il": "SİİRT",
+    "ilce": "KURTALAN",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 226,
+    "bolge": "DİYARBAKIR",
+    "il": "SİİRT",
+    "ilce": "PERVARİ",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 227,
+    "bolge": "DİYARBAKIR",
+    "il": "SİİRT",
+    "ilce": "SİİRT",
+    "tapu": 2.5,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 228,
+    "bolge": "DİYARBAKIR",
+    "il": "SİİRT",
+    "ilce": "ŞİRVAN",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 229,
+    "bolge": "DİYARBAKIR",
+    "il": "SİİRT",
+    "ilce": "TİLLO",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 230,
+    "bolge": "DİYARBAKIR",
+    "il": "ŞIRNAK",
+    "ilce": "BEYTÜŞŞEBAP",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 231,
+    "bolge": "DİYARBAKIR",
+    "il": "ŞIRNAK",
+    "ilce": "CİZRE",
+    "tapu": 1.5,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 232,
+    "bolge": "DİYARBAKIR",
+    "il": "ŞIRNAK",
+    "ilce": "GÜÇLÜKONAK",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 233,
+    "bolge": "DİYARBAKIR",
+    "il": "ŞIRNAK",
+    "ilce": "İDİL",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 234,
+    "bolge": "DİYARBAKIR",
+    "il": "ŞIRNAK",
+    "ilce": "SİLOPİ",
+    "tapu": 1.5,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 235,
+    "bolge": "DİYARBAKIR",
+    "il": "ŞIRNAK",
+    "ilce": "ŞIRNAK",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 236,
+    "bolge": "DİYARBAKIR",
+    "il": "ŞIRNAK",
+    "ilce": "ULUDERE",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 237,
+    "bolge": "EDİRNE",
+    "il": "EDİRNE",
+    "ilce": "EDİRNE",
+    "tapu": 3.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 238,
+    "bolge": "EDİRNE",
+    "il": "EDİRNE",
+    "ilce": "ENEZ",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 239,
+    "bolge": "EDİRNE",
+    "il": "EDİRNE",
+    "ilce": "HAVSA",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 240,
+    "bolge": "EDİRNE",
+    "il": "EDİRNE",
+    "ilce": "İPSALA",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 241,
+    "bolge": "EDİRNE",
+    "il": "EDİRNE",
+    "ilce": "KEŞAN",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 242,
+    "bolge": "EDİRNE",
+    "il": "EDİRNE",
+    "ilce": "LALAPAŞA",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 243,
+    "bolge": "EDİRNE",
+    "il": "EDİRNE",
+    "ilce": "MERİÇ",
+    "tapu": 1.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 244,
+    "bolge": "EDİRNE",
+    "il": "EDİRNE",
+    "ilce": "SÜLOĞLU",
+    "tapu": 1.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 245,
+    "bolge": "EDİRNE",
+    "il": "EDİRNE",
+    "ilce": "UZUNKÖPRÜ",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 246,
+    "bolge": "EDİRNE",
+    "il": "KIRKLARELİ",
+    "ilce": "BABAESKİ",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 247,
+    "bolge": "EDİRNE",
+    "il": "KIRKLARELİ",
+    "ilce": "DEMİRKÖY",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 248,
+    "bolge": "EDİRNE",
+    "il": "KIRKLARELİ",
+    "ilce": "KIRKLARELİ",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 249,
+    "bolge": "EDİRNE",
+    "il": "KIRKLARELİ",
+    "ilce": "KOFÇAZ",
+    "tapu": 1.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 250,
+    "bolge": "EDİRNE",
+    "il": "KIRKLARELİ",
+    "ilce": "LÜLEBURGAZ",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 251,
+    "bolge": "EDİRNE",
+    "il": "KIRKLARELİ",
+    "ilce": "PEHLİVANKÖY",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 252,
+    "bolge": "EDİRNE",
+    "il": "KIRKLARELİ",
+    "ilce": "PINARHİSAR",
+    "tapu": 1.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 253,
+    "bolge": "EDİRNE",
+    "il": "KIRKLARELİ",
+    "ilce": "VİZE",
+    "tapu": 2.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 254,
+    "bolge": "EDİRNE",
+    "il": "TEKİRDAĞ",
+    "ilce": "ÇERKEZKÖY",
+    "tapu": 3.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 255,
+    "bolge": "EDİRNE",
+    "il": "TEKİRDAĞ",
+    "ilce": "ÇORLU",
+    "tapu": 3.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 256,
+    "bolge": "EDİRNE",
+    "il": "TEKİRDAĞ",
+    "ilce": "ERGENE",
+    "tapu": 3.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 257,
+    "bolge": "EDİRNE",
+    "il": "TEKİRDAĞ",
+    "ilce": "HAYRABOLU",
+    "tapu": 2.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 258,
+    "bolge": "EDİRNE",
+    "il": "TEKİRDAĞ",
+    "ilce": "KAPAKLI",
+    "tapu": 3.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 259,
+    "bolge": "EDİRNE",
+    "il": "TEKİRDAĞ",
+    "ilce": "MALKARA",
+    "tapu": 2.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 260,
+    "bolge": "EDİRNE",
+    "il": "TEKİRDAĞ",
+    "ilce": "MARMARAEREĞLİSİ",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 261,
+    "bolge": "EDİRNE",
+    "il": "TEKİRDAĞ",
+    "ilce": "MURATLI",
+    "tapu": 2.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 262,
+    "bolge": "EDİRNE",
+    "il": "TEKİRDAĞ",
+    "ilce": "SARAY (TEKİRDAĞ)",
+    "tapu": 2.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 263,
+    "bolge": "EDİRNE",
+    "il": "TEKİRDAĞ",
+    "ilce": "SÜLEYMANPAŞA",
+    "tapu": 3.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 264,
+    "bolge": "EDİRNE",
+    "il": "TEKİRDAĞ",
+    "ilce": "ŞARKÖY",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 265,
+    "bolge": "ELAZIĞ",
+    "il": "BİNGÖL",
+    "ilce": "ADAKLI",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 266,
+    "bolge": "ELAZIĞ",
+    "il": "BİNGÖL",
+    "ilce": "BİNGÖL",
+    "tapu": 2.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 267,
+    "bolge": "ELAZIĞ",
+    "il": "BİNGÖL",
+    "ilce": "GENÇ",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 268,
+    "bolge": "ELAZIĞ",
+    "il": "BİNGÖL",
+    "ilce": "KARLIOVA",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 269,
+    "bolge": "ELAZIĞ",
+    "il": "BİNGÖL",
+    "ilce": "KİĞI",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 270,
+    "bolge": "ELAZIĞ",
+    "il": "BİNGÖL",
+    "ilce": "SOLHAN",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 271,
+    "bolge": "ELAZIĞ",
+    "il": "BİNGÖL",
+    "ilce": "YAYLADERE",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 272,
+    "bolge": "ELAZIĞ",
+    "il": "BİNGÖL",
+    "ilce": "YEDİSU",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 273,
+    "bolge": "ELAZIĞ",
+    "il": "ELAZIĞ",
+    "ilce": "AĞIN",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 274,
+    "bolge": "ELAZIĞ",
+    "il": "ELAZIĞ",
+    "ilce": "ALACAKAYA",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 275,
+    "bolge": "ELAZIĞ",
+    "il": "ELAZIĞ",
+    "ilce": "ARICAK",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 276,
+    "bolge": "ELAZIĞ",
+    "il": "ELAZIĞ",
+    "ilce": "BASKİL",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 277,
+    "bolge": "ELAZIĞ",
+    "il": "ELAZIĞ",
+    "ilce": "ELAZIĞ",
+    "tapu": 3.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 278,
+    "bolge": "ELAZIĞ",
+    "il": "ELAZIĞ",
+    "ilce": "KARAKOÇAN",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 279,
+    "bolge": "ELAZIĞ",
+    "il": "ELAZIĞ",
+    "ilce": "KEBAN",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 280,
+    "bolge": "ELAZIĞ",
+    "il": "ELAZIĞ",
+    "ilce": "KOVANCILAR",
+    "tapu": 2.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 281,
+    "bolge": "ELAZIĞ",
+    "il": "ELAZIĞ",
+    "ilce": "MADEN",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 282,
+    "bolge": "ELAZIĞ",
+    "il": "ELAZIĞ",
+    "ilce": "PALU",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 283,
+    "bolge": "ELAZIĞ",
+    "il": "ELAZIĞ",
+    "ilce": "SİVRİCE",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 284,
+    "bolge": "ELAZIĞ",
+    "il": "MALATYA",
+    "ilce": "AKÇADAĞ",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 285,
+    "bolge": "ELAZIĞ",
+    "il": "MALATYA",
+    "ilce": "ARAPGİR",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 286,
+    "bolge": "ELAZIĞ",
+    "il": "MALATYA",
+    "ilce": "ARGUVAN",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 287,
+    "bolge": "ELAZIĞ",
+    "il": "MALATYA",
+    "ilce": "BATTALGAZİ",
+    "tapu": 3.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 288,
+    "bolge": "ELAZIĞ",
+    "il": "MALATYA",
+    "ilce": "DARENDE",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 289,
+    "bolge": "ELAZIĞ",
+    "il": "MALATYA",
+    "ilce": "DOĞANŞEHİR",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 290,
+    "bolge": "ELAZIĞ",
+    "il": "MALATYA",
+    "ilce": "DOĞANYOL",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 291,
+    "bolge": "ELAZIĞ",
+    "il": "MALATYA",
+    "ilce": "HEKİMHAN",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 292,
+    "bolge": "ELAZIĞ",
+    "il": "MALATYA",
+    "ilce": "KALE (MALATYA)",
+    "tapu": 1.5,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 293,
+    "bolge": "ELAZIĞ",
+    "il": "MALATYA",
+    "ilce": "KULUNCAK",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 294,
+    "bolge": "ELAZIĞ",
+    "il": "MALATYA",
+    "ilce": "PÜTÜRGE",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 295,
+    "bolge": "ELAZIĞ",
+    "il": "MALATYA",
+    "ilce": "YAZIHAN",
+    "tapu": 1.5,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 296,
+    "bolge": "ELAZIĞ",
+    "il": "MALATYA",
+    "ilce": "YEŞİLYURT (MALATYA)",
+    "tapu": 3.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 297,
+    "bolge": "ELAZIĞ",
+    "il": "TUNCELİ",
+    "ilce": "ÇEMİŞGEZEK",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 298,
+    "bolge": "ELAZIĞ",
+    "il": "TUNCELİ",
+    "ilce": "HOZAT",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 299,
+    "bolge": "ELAZIĞ",
+    "il": "TUNCELİ",
+    "ilce": "MAZGİRT",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 300,
+    "bolge": "ELAZIĞ",
+    "il": "TUNCELİ",
+    "ilce": "NAZIMİYE",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 301,
+    "bolge": "ELAZIĞ",
+    "il": "TUNCELİ",
+    "ilce": "OVACIK (TUNCELİ)",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 302,
+    "bolge": "ELAZIĞ",
+    "il": "TUNCELİ",
+    "ilce": "PERTEK",
+    "tapu": 1.5,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 303,
+    "bolge": "ELAZIĞ",
+    "il": "TUNCELİ",
+    "ilce": "PÜLÜMÜR",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 304,
+    "bolge": "ELAZIĞ",
+    "il": "TUNCELİ",
+    "ilce": "TUNCELİ",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 305,
+    "bolge": "ERZİNCAN",
+    "il": "BAYBURT",
+    "ilce": "AYDINTEPE",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 306,
+    "bolge": "ERZİNCAN",
+    "il": "BAYBURT",
+    "ilce": "BAYBURT",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 307,
+    "bolge": "ERZİNCAN",
+    "il": "BAYBURT",
+    "ilce": "DEMİRÖZÜ",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 308,
+    "bolge": "ERZİNCAN",
+    "il": "ERZİNCAN",
+    "ilce": "ÇAYIRLI",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 309,
+    "bolge": "ERZİNCAN",
+    "il": "ERZİNCAN",
+    "ilce": "ERZİNCAN",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 310,
+    "bolge": "ERZİNCAN",
+    "il": "ERZİNCAN",
+    "ilce": "İLİÇ",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 311,
+    "bolge": "ERZİNCAN",
+    "il": "ERZİNCAN",
+    "ilce": "KEMAH",
+    "tapu": 1.0,
+    "kadastro": 0.8
+  },
+  {
+    "sira": 312,
+    "bolge": "ERZİNCAN",
+    "il": "ERZİNCAN",
+    "ilce": "KEMALİYE",
+    "tapu": 1.0,
+    "kadastro": 0.8
+  },
+  {
+    "sira": 313,
+    "bolge": "ERZİNCAN",
+    "il": "ERZİNCAN",
+    "ilce": "OTLUKBELİ",
+    "tapu": 1.0,
+    "kadastro": 0.8
+  },
+  {
+    "sira": 314,
+    "bolge": "ERZİNCAN",
+    "il": "ERZİNCAN",
+    "ilce": "REFAHİYE",
+    "tapu": 1.5,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 315,
+    "bolge": "ERZİNCAN",
+    "il": "ERZİNCAN",
+    "ilce": "TERCAN",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 316,
+    "bolge": "ERZİNCAN",
+    "il": "ERZİNCAN",
+    "ilce": "ÜZÜMLÜ",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 317,
+    "bolge": "ERZİNCAN",
+    "il": "GÜMÜŞHANE",
+    "ilce": "GÜMÜŞHANE",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 318,
+    "bolge": "ERZİNCAN",
+    "il": "GÜMÜŞHANE",
+    "ilce": "KELKİT",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 319,
+    "bolge": "ERZİNCAN",
+    "il": "GÜMÜŞHANE",
+    "ilce": "KÖSE",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 320,
+    "bolge": "ERZİNCAN",
+    "il": "GÜMÜŞHANE",
+    "ilce": "KÜRTÜN",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 321,
+    "bolge": "ERZİNCAN",
+    "il": "GÜMÜŞHANE",
+    "ilce": "ŞİRAN",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 322,
+    "bolge": "ERZİNCAN",
+    "il": "GÜMÜŞHANE",
+    "ilce": "TORUL",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 323,
+    "bolge": "ERZURUM",
+    "il": "AĞRI",
+    "ilce": "AĞRI",
+    "tapu": 2.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 324,
+    "bolge": "ERZURUM",
+    "il": "AĞRI",
+    "ilce": "DİYADİN",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 325,
+    "bolge": "ERZURUM",
+    "il": "AĞRI",
+    "ilce": "DOĞUBEYAZIT",
+    "tapu": 2.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 326,
+    "bolge": "ERZURUM",
+    "il": "AĞRI",
+    "ilce": "ELEŞKİRT",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 327,
+    "bolge": "ERZURUM",
+    "il": "AĞRI",
+    "ilce": "HAMUR",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 328,
+    "bolge": "ERZURUM",
+    "il": "AĞRI",
+    "ilce": "PATNOS",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 329,
+    "bolge": "ERZURUM",
+    "il": "AĞRI",
+    "ilce": "TAŞLIÇAY",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 330,
+    "bolge": "ERZURUM",
+    "il": "AĞRI",
+    "ilce": "TUTAK",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 331,
+    "bolge": "ERZURUM",
+    "il": "ARDAHAN",
+    "ilce": "ARDAHAN",
+    "tapu": 2.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 332,
+    "bolge": "ERZURUM",
+    "il": "ARDAHAN",
+    "ilce": "ÇILDIR",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 333,
+    "bolge": "ERZURUM",
+    "il": "ARDAHAN",
+    "ilce": "DAMAL",
+    "tapu": 1.0,
+    "kadastro": 0.8
+  },
+  {
+    "sira": 334,
+    "bolge": "ERZURUM",
+    "il": "ARDAHAN",
+    "ilce": "GÖLE",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 335,
+    "bolge": "ERZURUM",
+    "il": "ARDAHAN",
+    "ilce": "HANAK",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 336,
+    "bolge": "ERZURUM",
+    "il": "ARDAHAN",
+    "ilce": "POSOF",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 337,
+    "bolge": "ERZURUM",
+    "il": "ERZURUM",
+    "ilce": "AŞKALE",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 338,
+    "bolge": "ERZURUM",
+    "il": "ERZURUM",
+    "ilce": "AZİZİYE",
+    "tapu": 3.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 339,
+    "bolge": "ERZURUM",
+    "il": "ERZURUM",
+    "ilce": "ÇAT",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 340,
+    "bolge": "ERZURUM",
+    "il": "ERZURUM",
+    "ilce": "HINIS",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 341,
+    "bolge": "ERZURUM",
+    "il": "ERZURUM",
+    "ilce": "HORASAN",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 342,
+    "bolge": "ERZURUM",
+    "il": "ERZURUM",
+    "ilce": "İSPİR",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 343,
+    "bolge": "ERZURUM",
+    "il": "ERZURUM",
+    "ilce": "KARAÇOBAN",
+    "tapu": 1.0,
+    "kadastro": 0.8
+  },
+  {
+    "sira": 344,
+    "bolge": "ERZURUM",
+    "il": "ERZURUM",
+    "ilce": "KARAYAZI",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 345,
+    "bolge": "ERZURUM",
+    "il": "ERZURUM",
+    "ilce": "KÖPRÜKÖY",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 346,
+    "bolge": "ERZURUM",
+    "il": "ERZURUM",
+    "ilce": "NARMAN",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 347,
+    "bolge": "ERZURUM",
+    "il": "ERZURUM",
+    "ilce": "OLTU",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 348,
+    "bolge": "ERZURUM",
+    "il": "ERZURUM",
+    "ilce": "OLUR",
+    "tapu": 1.0,
+    "kadastro": 0.8
+  },
+  {
+    "sira": 349,
+    "bolge": "ERZURUM",
+    "il": "ERZURUM",
+    "ilce": "PALANDÖKEN",
+    "tapu": 3.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 350,
+    "bolge": "ERZURUM",
+    "il": "ERZURUM",
+    "ilce": "PASİNLER",
+    "tapu": 2.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 351,
+    "bolge": "ERZURUM",
+    "il": "ERZURUM",
+    "ilce": "PAZARYOLU",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 352,
+    "bolge": "ERZURUM",
+    "il": "ERZURUM",
+    "ilce": "ŞENKAYA",
+    "tapu": 1.0,
+    "kadastro": 0.8
+  },
+  {
+    "sira": 353,
+    "bolge": "ERZURUM",
+    "il": "ERZURUM",
+    "ilce": "TEKMAN",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 354,
+    "bolge": "ERZURUM",
+    "il": "ERZURUM",
+    "ilce": "TORTUM",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 355,
+    "bolge": "ERZURUM",
+    "il": "ERZURUM",
+    "ilce": "UZUNDERE",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 356,
+    "bolge": "ERZURUM",
+    "il": "ERZURUM",
+    "ilce": "YAKUTİYE",
+    "tapu": 3.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 357,
+    "bolge": "ERZURUM",
+    "il": "IĞDIR",
+    "ilce": "ARALIK",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 358,
+    "bolge": "ERZURUM",
+    "il": "IĞDIR",
+    "ilce": "IĞDIR",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 359,
+    "bolge": "ERZURUM",
+    "il": "IĞDIR",
+    "ilce": "KARAKOYUNLU",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 360,
+    "bolge": "ERZURUM",
+    "il": "IĞDIR",
+    "ilce": "TUZLUCA",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 361,
+    "bolge": "ERZURUM",
+    "il": "KARS",
+    "ilce": "AKYAKA",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 362,
+    "bolge": "ERZURUM",
+    "il": "KARS",
+    "ilce": "ARPAÇAY",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 363,
+    "bolge": "ERZURUM",
+    "il": "KARS",
+    "ilce": "DİGOR",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 364,
+    "bolge": "ERZURUM",
+    "il": "KARS",
+    "ilce": "KAĞIZMAN",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 365,
+    "bolge": "ERZURUM",
+    "il": "KARS",
+    "ilce": "KARS",
+    "tapu": 2.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 366,
+    "bolge": "ERZURUM",
+    "il": "KARS",
+    "ilce": "SARIKAMIŞ",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 367,
+    "bolge": "ERZURUM",
+    "il": "KARS",
+    "ilce": "SELİM",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 368,
+    "bolge": "ERZURUM",
+    "il": "KARS",
+    "ilce": "SUSUZ",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 369,
+    "bolge": "ESKİŞEHİR",
+    "il": "AFYONKARAHİSAR",
+    "ilce": "AFYON",
+    "tapu": 3.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 370,
+    "bolge": "ESKİŞEHİR",
+    "il": "AFYONKARAHİSAR",
+    "ilce": "BAŞMAKÇI",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 371,
+    "bolge": "ESKİŞEHİR",
+    "il": "AFYONKARAHİSAR",
+    "ilce": "BAYAT (AFYONKARAHİSAR)",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 372,
+    "bolge": "ESKİŞEHİR",
+    "il": "AFYONKARAHİSAR",
+    "ilce": "BOLVADİN",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 373,
+    "bolge": "ESKİŞEHİR",
+    "il": "AFYONKARAHİSAR",
+    "ilce": "ÇAY",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 374,
+    "bolge": "ESKİŞEHİR",
+    "il": "AFYONKARAHİSAR",
+    "ilce": "ÇOBANLAR",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 375,
+    "bolge": "ESKİŞEHİR",
+    "il": "AFYONKARAHİSAR",
+    "ilce": "DAZKIRI",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 376,
+    "bolge": "ESKİŞEHİR",
+    "il": "AFYONKARAHİSAR",
+    "ilce": "DİNAR",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 377,
+    "bolge": "ESKİŞEHİR",
+    "il": "AFYONKARAHİSAR",
+    "ilce": "EMİRDAĞ",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 378,
+    "bolge": "ESKİŞEHİR",
+    "il": "AFYONKARAHİSAR",
+    "ilce": "EVCİLER",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 379,
+    "bolge": "ESKİŞEHİR",
+    "il": "AFYONKARAHİSAR",
+    "ilce": "HOCALAR",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 380,
+    "bolge": "ESKİŞEHİR",
+    "il": "AFYONKARAHİSAR",
+    "ilce": "İHSANİYE",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 381,
+    "bolge": "ESKİŞEHİR",
+    "il": "AFYONKARAHİSAR",
+    "ilce": "İSCEHİSAR",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 382,
+    "bolge": "ESKİŞEHİR",
+    "il": "AFYONKARAHİSAR",
+    "ilce": "KIZILÖREN",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 383,
+    "bolge": "ESKİŞEHİR",
+    "il": "AFYONKARAHİSAR",
+    "ilce": "SANDIKLI",
+    "tapu": 2.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 384,
+    "bolge": "ESKİŞEHİR",
+    "il": "AFYONKARAHİSAR",
+    "ilce": "SİNANPAŞA",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 385,
+    "bolge": "ESKİŞEHİR",
+    "il": "AFYONKARAHİSAR",
+    "ilce": "SULTANDAĞI",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 386,
+    "bolge": "ESKİŞEHİR",
+    "il": "AFYONKARAHİSAR",
+    "ilce": "ŞUHUT",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 387,
+    "bolge": "ESKİŞEHİR",
+    "il": "BİLECİK",
+    "ilce": "BİLECİK",
+    "tapu": 2.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 388,
+    "bolge": "ESKİŞEHİR",
+    "il": "BİLECİK",
+    "ilce": "BOZÜYÜK",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 389,
+    "bolge": "ESKİŞEHİR",
+    "il": "BİLECİK",
+    "ilce": "GÖLPAZARI",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 390,
+    "bolge": "ESKİŞEHİR",
+    "il": "BİLECİK",
+    "ilce": "İNHİSAR",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 391,
+    "bolge": "ESKİŞEHİR",
+    "il": "BİLECİK",
+    "ilce": "OSMANELİ",
+    "tapu": 1.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 392,
+    "bolge": "ESKİŞEHİR",
+    "il": "BİLECİK",
+    "ilce": "PAZARYERİ",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 393,
+    "bolge": "ESKİŞEHİR",
+    "il": "BİLECİK",
+    "ilce": "SÖĞÜT",
+    "tapu": 1.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 394,
+    "bolge": "ESKİŞEHİR",
+    "il": "BİLECİK",
+    "ilce": "YENİPAZAR (BİLECİK)",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 395,
+    "bolge": "ESKİŞEHİR",
+    "il": "ESKİŞEHİR",
+    "ilce": "ALPU",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 396,
+    "bolge": "ESKİŞEHİR",
+    "il": "ESKİŞEHİR",
+    "ilce": "BEYLİKOVA",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 397,
+    "bolge": "ESKİŞEHİR",
+    "il": "ESKİŞEHİR",
+    "ilce": "ÇİFTELER",
+    "tapu": 1.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 398,
+    "bolge": "ESKİŞEHİR",
+    "il": "ESKİŞEHİR",
+    "ilce": "GÜNYÜZÜ",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 399,
+    "bolge": "ESKİŞEHİR",
+    "il": "ESKİŞEHİR",
+    "ilce": "HAN",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 400,
+    "bolge": "ESKİŞEHİR",
+    "il": "ESKİŞEHİR",
+    "ilce": "İNÖNÜ",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 401,
+    "bolge": "ESKİŞEHİR",
+    "il": "ESKİŞEHİR",
+    "ilce": "MAHMUDİYE",
+    "tapu": 1.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 402,
+    "bolge": "ESKİŞEHİR",
+    "il": "ESKİŞEHİR",
+    "ilce": "MİHALGAZİ",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 403,
+    "bolge": "ESKİŞEHİR",
+    "il": "ESKİŞEHİR",
+    "ilce": "MİHALIÇCIK",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 404,
+    "bolge": "ESKİŞEHİR",
+    "il": "ESKİŞEHİR",
+    "ilce": "ODUNPAZARI",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 405,
+    "bolge": "ESKİŞEHİR",
+    "il": "ESKİŞEHİR",
+    "ilce": "SARICAKAYA",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 406,
+    "bolge": "ESKİŞEHİR",
+    "il": "ESKİŞEHİR",
+    "ilce": "SEYİTGAZİ",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 407,
+    "bolge": "ESKİŞEHİR",
+    "il": "ESKİŞEHİR",
+    "ilce": "SİVRİHİSAR",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 408,
+    "bolge": "ESKİŞEHİR",
+    "il": "ESKİŞEHİR",
+    "ilce": "TEPEBAŞI",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 409,
+    "bolge": "ESKİŞEHİR",
+    "il": "KÜTAHYA",
+    "ilce": "ALTINTAŞ",
+    "tapu": 1.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 410,
+    "bolge": "ESKİŞEHİR",
+    "il": "KÜTAHYA",
+    "ilce": "ASLANAPA",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 411,
+    "bolge": "ESKİŞEHİR",
+    "il": "KÜTAHYA",
+    "ilce": "ÇAVDARHİSAR",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 412,
+    "bolge": "ESKİŞEHİR",
+    "il": "KÜTAHYA",
+    "ilce": "DOMANİÇ",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 413,
+    "bolge": "ESKİŞEHİR",
+    "il": "KÜTAHYA",
+    "ilce": "DUMLUPINAR",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 414,
+    "bolge": "ESKİŞEHİR",
+    "il": "KÜTAHYA",
+    "ilce": "EMET",
+    "tapu": 1.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 415,
+    "bolge": "ESKİŞEHİR",
+    "il": "KÜTAHYA",
+    "ilce": "GEDİZ",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 416,
+    "bolge": "ESKİŞEHİR",
+    "il": "KÜTAHYA",
+    "ilce": "HİSARCIK",
+    "tapu": 1.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 417,
+    "bolge": "ESKİŞEHİR",
+    "il": "KÜTAHYA",
+    "ilce": "KÜTAHYA",
+    "tapu": 3.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 418,
+    "bolge": "ESKİŞEHİR",
+    "il": "KÜTAHYA",
+    "ilce": "PAZARLAR",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 419,
+    "bolge": "ESKİŞEHİR",
+    "il": "KÜTAHYA",
+    "ilce": "SİMAV",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 420,
+    "bolge": "ESKİŞEHİR",
+    "il": "KÜTAHYA",
+    "ilce": "ŞAPHANE",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 421,
+    "bolge": "ESKİŞEHİR",
+    "il": "KÜTAHYA",
+    "ilce": "TAVŞANLI",
+    "tapu": 2.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 422,
+    "bolge": "GAZİANTEP",
+    "il": "GAZİANTEP",
+    "ilce": "ARABAN",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 423,
+    "bolge": "GAZİANTEP",
+    "il": "GAZİANTEP",
+    "ilce": "İSLAHİYE",
+    "tapu": 2.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 424,
+    "bolge": "GAZİANTEP",
+    "il": "GAZİANTEP",
+    "ilce": "KARKAMIŞ",
+    "tapu": 1.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 425,
+    "bolge": "GAZİANTEP",
+    "il": "GAZİANTEP",
+    "ilce": "NİZİP",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 426,
+    "bolge": "GAZİANTEP",
+    "il": "GAZİANTEP",
+    "ilce": "NURDAĞI",
+    "tapu": 1.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 427,
+    "bolge": "GAZİANTEP",
+    "il": "GAZİANTEP",
+    "ilce": "OĞUZELİ",
+    "tapu": 3.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 428,
+    "bolge": "GAZİANTEP",
+    "il": "GAZİANTEP",
+    "ilce": "ŞAHİNBEY",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 429,
+    "bolge": "GAZİANTEP",
+    "il": "GAZİANTEP",
+    "ilce": "ŞEHİTKAMİL",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 430,
+    "bolge": "GAZİANTEP",
+    "il": "GAZİANTEP",
+    "ilce": "YAVUZELİ",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 431,
+    "bolge": "GAZİANTEP",
+    "il": "K.MARAŞ",
+    "ilce": "AFŞİN",
+    "tapu": 2.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 432,
+    "bolge": "GAZİANTEP",
+    "il": "K.MARAŞ",
+    "ilce": "ANDIRIN",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 433,
+    "bolge": "GAZİANTEP",
+    "il": "K.MARAŞ",
+    "ilce": "ÇAĞLIYANCERİT",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 434,
+    "bolge": "GAZİANTEP",
+    "il": "K.MARAŞ",
+    "ilce": "DULKADİROĞLU",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 435,
+    "bolge": "GAZİANTEP",
+    "il": "K.MARAŞ",
+    "ilce": "EKİNÖZÜ",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 436,
+    "bolge": "GAZİANTEP",
+    "il": "K.MARAŞ",
+    "ilce": "ELBİSTAN",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 437,
+    "bolge": "GAZİANTEP",
+    "il": "K.MARAŞ",
+    "ilce": "GÖKSUN",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 438,
+    "bolge": "GAZİANTEP",
+    "il": "K.MARAŞ",
+    "ilce": "NURHAK",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 439,
+    "bolge": "GAZİANTEP",
+    "il": "K.MARAŞ",
+    "ilce": "ONİKİŞUBAT",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 440,
+    "bolge": "GAZİANTEP",
+    "il": "K.MARAŞ",
+    "ilce": "PAZARCIK",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 441,
+    "bolge": "GAZİANTEP",
+    "il": "K.MARAŞ",
+    "ilce": "TÜRKOĞLU",
+    "tapu": 2.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 442,
+    "bolge": "GAZİANTEP",
+    "il": "KİLİS",
+    "ilce": "ELBEYLİ",
+    "tapu": 1.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 443,
+    "bolge": "GAZİANTEP",
+    "il": "KİLİS",
+    "ilce": "KİLİS",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 444,
+    "bolge": "GAZİANTEP",
+    "il": "KİLİS",
+    "ilce": "MUSABEYLİ",
+    "tapu": 1.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 445,
+    "bolge": "GAZİANTEP",
+    "il": "KİLİS",
+    "ilce": "POLATELİ",
+    "tapu": 1.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 446,
+    "bolge": "HATAY",
+    "il": "ADANA",
+    "ilce": "ALADAĞ",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 447,
+    "bolge": "HATAY",
+    "il": "ADANA",
+    "ilce": "CEYHAN",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 448,
+    "bolge": "HATAY",
+    "il": "ADANA",
+    "ilce": "ÇUKUROVA",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 449,
+    "bolge": "HATAY",
+    "il": "ADANA",
+    "ilce": "FEKE",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 450,
+    "bolge": "HATAY",
+    "il": "ADANA",
+    "ilce": "İMAMOĞLU",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 451,
+    "bolge": "HATAY",
+    "il": "ADANA",
+    "ilce": "KARAİSALI",
+    "tapu": 2.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 452,
+    "bolge": "HATAY",
+    "il": "ADANA",
+    "ilce": "KARATAŞ",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 453,
+    "bolge": "HATAY",
+    "il": "ADANA",
+    "ilce": "KOZAN",
+    "tapu": 2.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 454,
+    "bolge": "HATAY",
+    "il": "ADANA",
+    "ilce": "POZANTI",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 455,
+    "bolge": "HATAY",
+    "il": "ADANA",
+    "ilce": "SAİMBEYLİ",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 456,
+    "bolge": "HATAY",
+    "il": "ADANA",
+    "ilce": "SARIÇAM",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 457,
+    "bolge": "HATAY",
+    "il": "ADANA",
+    "ilce": "SEYHAN",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 458,
+    "bolge": "HATAY",
+    "il": "ADANA",
+    "ilce": "TUFANBEYLİ",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 459,
+    "bolge": "HATAY",
+    "il": "ADANA",
+    "ilce": "YUMURTALIK",
+    "tapu": 2.0,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 460,
+    "bolge": "HATAY",
+    "il": "ADANA",
+    "ilce": "YÜREĞİR",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 461,
+    "bolge": "HATAY",
+    "il": "HATAY",
+    "ilce": "ALTINÖZÜ",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 462,
+    "bolge": "HATAY",
+    "il": "HATAY",
+    "ilce": "ANTAKYA",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 463,
+    "bolge": "HATAY",
+    "il": "HATAY",
+    "ilce": "ARSUZ",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 464,
+    "bolge": "HATAY",
+    "il": "HATAY",
+    "ilce": "BELEN",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 465,
+    "bolge": "HATAY",
+    "il": "HATAY",
+    "ilce": "DEFNE",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 466,
+    "bolge": "HATAY",
+    "il": "HATAY",
+    "ilce": "DÖRTYOL",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 467,
+    "bolge": "HATAY",
+    "il": "HATAY",
+    "ilce": "ERZİN",
+    "tapu": 2.0,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 468,
+    "bolge": "HATAY",
+    "il": "HATAY",
+    "ilce": "HASSA",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 469,
+    "bolge": "HATAY",
+    "il": "HATAY",
+    "ilce": "İSKENDERUN",
+    "tapu": 3.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 470,
+    "bolge": "HATAY",
+    "il": "HATAY",
+    "ilce": "KIRIKHAN",
+    "tapu": 2.5,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 471,
+    "bolge": "HATAY",
+    "il": "HATAY",
+    "ilce": "KUMLU",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 472,
+    "bolge": "HATAY",
+    "il": "HATAY",
+    "ilce": "PAYAS",
+    "tapu": 2.5,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 473,
+    "bolge": "HATAY",
+    "il": "HATAY",
+    "ilce": "REYHANLI",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 474,
+    "bolge": "HATAY",
+    "il": "HATAY",
+    "ilce": "SAMANDAĞI",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 475,
+    "bolge": "HATAY",
+    "il": "HATAY",
+    "ilce": "YAYLADAĞI",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 476,
+    "bolge": "HATAY",
+    "il": "MERSİN",
+    "ilce": "AKDENİZ",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 477,
+    "bolge": "HATAY",
+    "il": "MERSİN",
+    "ilce": "ANAMUR",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 478,
+    "bolge": "HATAY",
+    "il": "MERSİN",
+    "ilce": "AYDINCIK (MERSİN)",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 479,
+    "bolge": "HATAY",
+    "il": "MERSİN",
+    "ilce": "BOZYAZI",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 480,
+    "bolge": "HATAY",
+    "il": "MERSİN",
+    "ilce": "ÇAMLIYAYLA",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 481,
+    "bolge": "HATAY",
+    "il": "MERSİN",
+    "ilce": "ERDEMLİ",
+    "tapu": 3.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 482,
+    "bolge": "HATAY",
+    "il": "MERSİN",
+    "ilce": "GÜLNAR",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 483,
+    "bolge": "HATAY",
+    "il": "MERSİN",
+    "ilce": "MEZİTLİ",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 484,
+    "bolge": "HATAY",
+    "il": "MERSİN",
+    "ilce": "MUT",
+    "tapu": 2.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 485,
+    "bolge": "HATAY",
+    "il": "MERSİN",
+    "ilce": "SİLİFKE",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 486,
+    "bolge": "HATAY",
+    "il": "MERSİN",
+    "ilce": "TARSUS",
+    "tapu": 3.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 487,
+    "bolge": "HATAY",
+    "il": "MERSİN",
+    "ilce": "TOROSLAR",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 488,
+    "bolge": "HATAY",
+    "il": "MERSİN",
+    "ilce": "YENİŞEHİR(MERSİN)",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 489,
+    "bolge": "HATAY",
+    "il": "OSMANİYE",
+    "ilce": "BAHÇE",
+    "tapu": 1.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 490,
+    "bolge": "HATAY",
+    "il": "OSMANİYE",
+    "ilce": "DÜZİÇİ",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 491,
+    "bolge": "HATAY",
+    "il": "OSMANİYE",
+    "ilce": "HASANBEYLİ",
+    "tapu": 1.0,
+    "kadastro": 1.3
+  },
+  {
+    "sira": 492,
+    "bolge": "HATAY",
+    "il": "OSMANİYE",
+    "ilce": "KADİRLİ",
+    "tapu": 2.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 493,
+    "bolge": "HATAY",
+    "il": "OSMANİYE",
+    "ilce": "OSMANİYE",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 494,
+    "bolge": "HATAY",
+    "il": "OSMANİYE",
+    "ilce": "SUMBAS",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 495,
+    "bolge": "HATAY",
+    "il": "OSMANİYE",
+    "ilce": "TOPRAKKALE",
+    "tapu": 2.0,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 496,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "ADALAR",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 497,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "ARNAVUTKÖY",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 498,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "ATAŞEHİR",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 499,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "AVCILAR",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 500,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "BAĞCILAR",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 501,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "BAHÇELİEVLER",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 502,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "BAKIRKÖY",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 503,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "BAŞAKŞEHİR",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 504,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "BAYRAMPAŞA",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 505,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "BEŞİKTAŞ",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 506,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "BEYKOZ",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 507,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "BEYLİKDÜZÜ",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 508,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "BEYOĞLU",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 509,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "BÜYÜKÇEKMECE",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 510,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "ÇATALCA",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 511,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "ÇEKMEKÖY",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 512,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "ESENLER",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 513,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "ESENYURT",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 514,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "EYÜP",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 515,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "FATİH",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 516,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "GAZİOSMANPAŞA",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 517,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "GÜNGÖREN",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 518,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "KADIKÖY",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 519,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "KAĞITHANE",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 520,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "KARTAL",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 521,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "KÜÇÜKÇEKMECE",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 522,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "MALTEPE",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 523,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "PENDİK",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 524,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "SANCAKTEPE",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 525,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "SARIYER",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 526,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "SİLİVRİ",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 527,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "SULTANBEYLİ",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 528,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "SULTANGAZİ",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 529,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "ŞİLE",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 530,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "ŞİŞLİ",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 531,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "TUZLA",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 532,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "ÜMRANİYE",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 533,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "ÜSKÜDAR",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 534,
+    "bolge": "İSTANBUL",
+    "il": "İSTANBUL",
+    "ilce": "ZEYTİNBURNU",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 535,
+    "bolge": "İSTANBUL",
+    "il": "KOCAELİ",
+    "ilce": "BAŞİSKELE",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 536,
+    "bolge": "İSTANBUL",
+    "il": "KOCAELİ",
+    "ilce": "ÇAYIROVA",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 537,
+    "bolge": "İSTANBUL",
+    "il": "KOCAELİ",
+    "ilce": "DARICA",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 538,
+    "bolge": "İSTANBUL",
+    "il": "KOCAELİ",
+    "ilce": "DERİNCE",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 539,
+    "bolge": "İSTANBUL",
+    "il": "KOCAELİ",
+    "ilce": "DİLOVASI",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 540,
+    "bolge": "İSTANBUL",
+    "il": "KOCAELİ",
+    "ilce": "GEBZE",
+    "tapu": 3.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 541,
+    "bolge": "İSTANBUL",
+    "il": "KOCAELİ",
+    "ilce": "GÖLCÜK",
+    "tapu": 3.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 542,
+    "bolge": "İSTANBUL",
+    "il": "KOCAELİ",
+    "ilce": "İZMİT",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 543,
+    "bolge": "İSTANBUL",
+    "il": "KOCAELİ",
+    "ilce": "KANDIRA",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 544,
+    "bolge": "İSTANBUL",
+    "il": "KOCAELİ",
+    "ilce": "KARAMÜRSEL",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 545,
+    "bolge": "İSTANBUL",
+    "il": "KOCAELİ",
+    "ilce": "KARTEPE",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 546,
+    "bolge": "İSTANBUL",
+    "il": "KOCAELİ",
+    "ilce": "KÖRFEZ",
+    "tapu": 3.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 547,
+    "bolge": "İSTANBUL",
+    "il": "SAKARYA",
+    "ilce": "ADAPAZARI",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 548,
+    "bolge": "İSTANBUL",
+    "il": "SAKARYA",
+    "ilce": "AKYAZI",
+    "tapu": 2.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 549,
+    "bolge": "İSTANBUL",
+    "il": "SAKARYA",
+    "ilce": "ARİFİYE",
+    "tapu": 3.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 550,
+    "bolge": "İSTANBUL",
+    "il": "SAKARYA",
+    "ilce": "ERENLER",
+    "tapu": 3.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 551,
+    "bolge": "İSTANBUL",
+    "il": "SAKARYA",
+    "ilce": "FERİZLİ",
+    "tapu": 2.0,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 552,
+    "bolge": "İSTANBUL",
+    "il": "SAKARYA",
+    "ilce": "GEYVE",
+    "tapu": 2.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 553,
+    "bolge": "İSTANBUL",
+    "il": "SAKARYA",
+    "ilce": "HENDEK",
+    "tapu": 2.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 554,
+    "bolge": "İSTANBUL",
+    "il": "SAKARYA",
+    "ilce": "KARAPÜRÇEK",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 555,
+    "bolge": "İSTANBUL",
+    "il": "SAKARYA",
+    "ilce": "KARASU",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 556,
+    "bolge": "İSTANBUL",
+    "il": "SAKARYA",
+    "ilce": "KAYNARCA",
+    "tapu": 2.0,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 557,
+    "bolge": "İSTANBUL",
+    "il": "SAKARYA",
+    "ilce": "KOCAALİ",
+    "tapu": 2.0,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 558,
+    "bolge": "İSTANBUL",
+    "il": "SAKARYA",
+    "ilce": "PAMUKOVA",
+    "tapu": 1.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 559,
+    "bolge": "İSTANBUL",
+    "il": "SAKARYA",
+    "ilce": "SAPANCA",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 560,
+    "bolge": "İSTANBUL",
+    "il": "SAKARYA",
+    "ilce": "SERDİVAN",
+    "tapu": 3.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 561,
+    "bolge": "İSTANBUL",
+    "il": "SAKARYA",
+    "ilce": "SÖĞÜTLÜ",
+    "tapu": 2.0,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 562,
+    "bolge": "İSTANBUL",
+    "il": "SAKARYA",
+    "ilce": "TARAKLI",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 563,
+    "bolge": "İZMİR",
+    "il": "AYDIN",
+    "ilce": "BOZDOĞAN",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 564,
+    "bolge": "İZMİR",
+    "il": "AYDIN",
+    "ilce": "BUHARKENT",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 565,
+    "bolge": "İZMİR",
+    "il": "AYDIN",
+    "ilce": "ÇİNE",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 566,
+    "bolge": "İZMİR",
+    "il": "AYDIN",
+    "ilce": "DİDİM",
+    "tapu": 3.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 567,
+    "bolge": "İZMİR",
+    "il": "AYDIN",
+    "ilce": "EFELER",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 568,
+    "bolge": "İZMİR",
+    "il": "AYDIN",
+    "ilce": "GERMENCİK",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 569,
+    "bolge": "İZMİR",
+    "il": "AYDIN",
+    "ilce": "İNCİRLİOVA",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 570,
+    "bolge": "İZMİR",
+    "il": "AYDIN",
+    "ilce": "KARACASU",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 571,
+    "bolge": "İZMİR",
+    "il": "AYDIN",
+    "ilce": "KARPUZLU",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 572,
+    "bolge": "İZMİR",
+    "il": "AYDIN",
+    "ilce": "KOÇARLI",
+    "tapu": 1.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 573,
+    "bolge": "İZMİR",
+    "il": "AYDIN",
+    "ilce": "KÖŞK",
+    "tapu": 1.5,
+    "kadastro": 1.3
+  },
+  {
+    "sira": 574,
+    "bolge": "İZMİR",
+    "il": "AYDIN",
+    "ilce": "KUŞADASI",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 575,
+    "bolge": "İZMİR",
+    "il": "AYDIN",
+    "ilce": "KUYUCAK",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 576,
+    "bolge": "İZMİR",
+    "il": "AYDIN",
+    "ilce": "NAZİLLİ",
+    "tapu": 3.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 577,
+    "bolge": "İZMİR",
+    "il": "AYDIN",
+    "ilce": "SÖKE",
+    "tapu": 3.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 578,
+    "bolge": "İZMİR",
+    "il": "AYDIN",
+    "ilce": "SULTANHİSAR",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 579,
+    "bolge": "İZMİR",
+    "il": "AYDIN",
+    "ilce": "YENİPAZAR (AYDIN)",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 580,
+    "bolge": "İZMİR",
+    "il": "İZMİR",
+    "ilce": "ALİAĞA",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 581,
+    "bolge": "İZMİR",
+    "il": "İZMİR",
+    "ilce": "BALÇOVA",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 582,
+    "bolge": "İZMİR",
+    "il": "İZMİR",
+    "ilce": "BAYINDIR",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 583,
+    "bolge": "İZMİR",
+    "il": "İZMİR",
+    "ilce": "BAYRAKLI",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 584,
+    "bolge": "İZMİR",
+    "il": "İZMİR",
+    "ilce": "BERGAMA",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 585,
+    "bolge": "İZMİR",
+    "il": "İZMİR",
+    "ilce": "BEYDAĞ",
+    "tapu": 1.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 586,
+    "bolge": "İZMİR",
+    "il": "İZMİR",
+    "ilce": "BORNOVA",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 587,
+    "bolge": "İZMİR",
+    "il": "İZMİR",
+    "ilce": "BUCA",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 588,
+    "bolge": "İZMİR",
+    "il": "İZMİR",
+    "ilce": "ÇEŞME",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 589,
+    "bolge": "İZMİR",
+    "il": "İZMİR",
+    "ilce": "ÇİĞLİ",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 590,
+    "bolge": "İZMİR",
+    "il": "İZMİR",
+    "ilce": "DİKİLİ",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 591,
+    "bolge": "İZMİR",
+    "il": "İZMİR",
+    "ilce": "FOÇA",
+    "tapu": 3.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 592,
+    "bolge": "İZMİR",
+    "il": "İZMİR",
+    "ilce": "GAZİEMİR",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 593,
+    "bolge": "İZMİR",
+    "il": "İZMİR",
+    "ilce": "GÜZELBAHÇE",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 594,
+    "bolge": "İZMİR",
+    "il": "İZMİR",
+    "ilce": "KARABAĞLAR",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 595,
+    "bolge": "İZMİR",
+    "il": "İZMİR",
+    "ilce": "KARABURUN",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 596,
+    "bolge": "İZMİR",
+    "il": "İZMİR",
+    "ilce": "KARŞIYAKA",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 597,
+    "bolge": "İZMİR",
+    "il": "İZMİR",
+    "ilce": "KEMALPAŞA",
+    "tapu": 2.5,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 598,
+    "bolge": "İZMİR",
+    "il": "İZMİR",
+    "ilce": "KINIK",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 599,
+    "bolge": "İZMİR",
+    "il": "İZMİR",
+    "ilce": "KİRAZ",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 600,
+    "bolge": "İZMİR",
+    "il": "İZMİR",
+    "ilce": "KONAK",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 601,
+    "bolge": "İZMİR",
+    "il": "İZMİR",
+    "ilce": "MENDERES",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 602,
+    "bolge": "İZMİR",
+    "il": "İZMİR",
+    "ilce": "MENEMEN",
+    "tapu": 3.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 603,
+    "bolge": "İZMİR",
+    "il": "İZMİR",
+    "ilce": "NARLIDERE",
+    "tapu": 3.0,
+    "kadastro": 2.5
+  },
+  {
+    "sira": 604,
+    "bolge": "İZMİR",
+    "il": "İZMİR",
+    "ilce": "ÖDEMİŞ",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 605,
+    "bolge": "İZMİR",
+    "il": "İZMİR",
+    "ilce": "SEFERİHİSAR",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 606,
+    "bolge": "İZMİR",
+    "il": "İZMİR",
+    "ilce": "SELÇUK",
+    "tapu": 2.5,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 607,
+    "bolge": "İZMİR",
+    "il": "İZMİR",
+    "ilce": "TİRE",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 608,
+    "bolge": "İZMİR",
+    "il": "İZMİR",
+    "ilce": "TORBALI",
+    "tapu": 3.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 609,
+    "bolge": "İZMİR",
+    "il": "İZMİR",
+    "ilce": "URLA",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 610,
+    "bolge": "İZMİR",
+    "il": "MANİSA",
+    "ilce": "AHMETLİ",
+    "tapu": 1.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 611,
+    "bolge": "İZMİR",
+    "il": "MANİSA",
+    "ilce": "AKHİSAR",
+    "tapu": 3.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 612,
+    "bolge": "İZMİR",
+    "il": "MANİSA",
+    "ilce": "ALAŞEHİR",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 613,
+    "bolge": "İZMİR",
+    "il": "MANİSA",
+    "ilce": "DEMİRCİ",
+    "tapu": 1.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 614,
+    "bolge": "İZMİR",
+    "il": "MANİSA",
+    "ilce": "GÖLMARMARA",
+    "tapu": 2.0,
+    "kadastro": 1.3
+  },
+  {
+    "sira": 615,
+    "bolge": "İZMİR",
+    "il": "MANİSA",
+    "ilce": "GÖRDES",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 616,
+    "bolge": "İZMİR",
+    "il": "MANİSA",
+    "ilce": "KIRKAĞAÇ",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 617,
+    "bolge": "İZMİR",
+    "il": "MANİSA",
+    "ilce": "KÖPRÜBAŞI(MANİSA)",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 618,
+    "bolge": "İZMİR",
+    "il": "MANİSA",
+    "ilce": "KULA",
+    "tapu": 2.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 619,
+    "bolge": "İZMİR",
+    "il": "MANİSA",
+    "ilce": "SALİHLİ",
+    "tapu": 3.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 620,
+    "bolge": "İZMİR",
+    "il": "MANİSA",
+    "ilce": "SARIGÖL",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 621,
+    "bolge": "İZMİR",
+    "il": "MANİSA",
+    "ilce": "SARUHANLI",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 622,
+    "bolge": "İZMİR",
+    "il": "MANİSA",
+    "ilce": "SELENDİ",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 623,
+    "bolge": "İZMİR",
+    "il": "MANİSA",
+    "ilce": "SOMA",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 624,
+    "bolge": "İZMİR",
+    "il": "MANİSA",
+    "ilce": "ŞEHZADELER",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 625,
+    "bolge": "İZMİR",
+    "il": "MANİSA",
+    "ilce": "TURGUTLU",
+    "tapu": 3.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 626,
+    "bolge": "İZMİR",
+    "il": "MANİSA",
+    "ilce": "YUNUSEMRE",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 627,
+    "bolge": "KASTAMONU",
+    "il": "BARTIN",
+    "ilce": "AMASRA",
+    "tapu": 2.0,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 628,
+    "bolge": "KASTAMONU",
+    "il": "BARTIN",
+    "ilce": "BARTIN",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 629,
+    "bolge": "KASTAMONU",
+    "il": "BARTIN",
+    "ilce": "KURUCAŞİLE",
+    "tapu": 1.0,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 630,
+    "bolge": "KASTAMONU",
+    "il": "BARTIN",
+    "ilce": "ULUS",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 631,
+    "bolge": "KASTAMONU",
+    "il": "KARABÜK",
+    "ilce": "EFLANİ",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 632,
+    "bolge": "KASTAMONU",
+    "il": "KARABÜK",
+    "ilce": "ESKİPAZAR",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 633,
+    "bolge": "KASTAMONU",
+    "il": "KARABÜK",
+    "ilce": "KARABÜK",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 634,
+    "bolge": "KASTAMONU",
+    "il": "KARABÜK",
+    "ilce": "OVACIK (KARABÜK)",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 635,
+    "bolge": "KASTAMONU",
+    "il": "KARABÜK",
+    "ilce": "SAFRANBOLU",
+    "tapu": 2.5,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 636,
+    "bolge": "KASTAMONU",
+    "il": "KARABÜK",
+    "ilce": "YENİCE (KARABÜK)",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 637,
+    "bolge": "KASTAMONU",
+    "il": "KASTAMONU",
+    "ilce": "ABANA",
+    "tapu": 1.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 638,
+    "bolge": "KASTAMONU",
+    "il": "KASTAMONU",
+    "ilce": "AĞLI",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 639,
+    "bolge": "KASTAMONU",
+    "il": "KASTAMONU",
+    "ilce": "ARAÇ",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 640,
+    "bolge": "KASTAMONU",
+    "il": "KASTAMONU",
+    "ilce": "AZDAVAY",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 641,
+    "bolge": "KASTAMONU",
+    "il": "KASTAMONU",
+    "ilce": "BOZKURT(KASTAMONU)",
+    "tapu": 1.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 642,
+    "bolge": "KASTAMONU",
+    "il": "KASTAMONU",
+    "ilce": "CİDE",
+    "tapu": 1.5,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 643,
+    "bolge": "KASTAMONU",
+    "il": "KASTAMONU",
+    "ilce": "ÇATALZEYTİN",
+    "tapu": 1.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 644,
+    "bolge": "KASTAMONU",
+    "il": "KASTAMONU",
+    "ilce": "DADAY",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 645,
+    "bolge": "KASTAMONU",
+    "il": "KASTAMONU",
+    "ilce": "DEVREKANİ",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 646,
+    "bolge": "KASTAMONU",
+    "il": "KASTAMONU",
+    "ilce": "DOĞANYURT",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 647,
+    "bolge": "KASTAMONU",
+    "il": "KASTAMONU",
+    "ilce": "HANÖNÜ",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 648,
+    "bolge": "KASTAMONU",
+    "il": "KASTAMONU",
+    "ilce": "İHSANGAZİ",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 649,
+    "bolge": "KASTAMONU",
+    "il": "KASTAMONU",
+    "ilce": "İNEBOLU",
+    "tapu": 1.5,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 650,
+    "bolge": "KASTAMONU",
+    "il": "KASTAMONU",
+    "ilce": "KASTAMONU",
+    "tapu": 2.5,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 651,
+    "bolge": "KASTAMONU",
+    "il": "KASTAMONU",
+    "ilce": "KÜRE",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 652,
+    "bolge": "KASTAMONU",
+    "il": "KASTAMONU",
+    "ilce": "PINARBAŞI (KASTAMONU)",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 653,
+    "bolge": "KASTAMONU",
+    "il": "KASTAMONU",
+    "ilce": "SEYDİLER",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 654,
+    "bolge": "KASTAMONU",
+    "il": "KASTAMONU",
+    "ilce": "ŞENPAZAR",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 655,
+    "bolge": "KASTAMONU",
+    "il": "KASTAMONU",
+    "ilce": "TAŞKÖPRÜ",
+    "tapu": 2.0,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 656,
+    "bolge": "KASTAMONU",
+    "il": "KASTAMONU",
+    "ilce": "TOSYA",
+    "tapu": 2.0,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 657,
+    "bolge": "KASTAMONU",
+    "il": "ZONGULDAK",
+    "ilce": "ALAPLI",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 658,
+    "bolge": "KASTAMONU",
+    "il": "ZONGULDAK",
+    "ilce": "ÇAYCUMA",
+    "tapu": 2.0,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 659,
+    "bolge": "KASTAMONU",
+    "il": "ZONGULDAK",
+    "ilce": "DEVREK",
+    "tapu": 2.0,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 660,
+    "bolge": "KASTAMONU",
+    "il": "ZONGULDAK",
+    "ilce": "EREĞLİ (KDZ.)",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 661,
+    "bolge": "KASTAMONU",
+    "il": "ZONGULDAK",
+    "ilce": "GÖKÇEBEY",
+    "tapu": 1.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 662,
+    "bolge": "KASTAMONU",
+    "il": "ZONGULDAK",
+    "ilce": "KİLİMLİ",
+    "tapu": 2.5,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 663,
+    "bolge": "KASTAMONU",
+    "il": "ZONGULDAK",
+    "ilce": "KOZLU",
+    "tapu": 2.5,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 664,
+    "bolge": "KASTAMONU",
+    "il": "ZONGULDAK",
+    "ilce": "ZONGULDAK",
+    "tapu": 2.5,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 665,
+    "bolge": "KAYSERİ",
+    "il": "KAYSERİ",
+    "ilce": "AKKIŞLA",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 666,
+    "bolge": "KAYSERİ",
+    "il": "KAYSERİ",
+    "ilce": "BÜNYAN",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 667,
+    "bolge": "KAYSERİ",
+    "il": "KAYSERİ",
+    "ilce": "DEVELİ",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 668,
+    "bolge": "KAYSERİ",
+    "il": "KAYSERİ",
+    "ilce": "FELAHİYE",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 669,
+    "bolge": "KAYSERİ",
+    "il": "KAYSERİ",
+    "ilce": "HACILAR",
+    "tapu": 3.0,
+    "kadastro": 1.8
+  },
+  {
+    "sira": 670,
+    "bolge": "KAYSERİ",
+    "il": "KAYSERİ",
+    "ilce": "İNCESU",
+    "tapu": 2.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 671,
+    "bolge": "KAYSERİ",
+    "il": "KAYSERİ",
+    "ilce": "KOCASİNAN",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 672,
+    "bolge": "KAYSERİ",
+    "il": "KAYSERİ",
+    "ilce": "MELİKGAZİ",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 673,
+    "bolge": "KAYSERİ",
+    "il": "KAYSERİ",
+    "ilce": "ÖZVATAN",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 674,
+    "bolge": "KAYSERİ",
+    "il": "KAYSERİ",
+    "ilce": "PINARBAŞI (KAYSERİ)",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 675,
+    "bolge": "KAYSERİ",
+    "il": "KAYSERİ",
+    "ilce": "SARIOĞLAN",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 676,
+    "bolge": "KAYSERİ",
+    "il": "KAYSERİ",
+    "ilce": "SARIZ",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 677,
+    "bolge": "KAYSERİ",
+    "il": "KAYSERİ",
+    "ilce": "TALAS",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 678,
+    "bolge": "KAYSERİ",
+    "il": "KAYSERİ",
+    "ilce": "TOMARZA",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 679,
+    "bolge": "KAYSERİ",
+    "il": "KAYSERİ",
+    "ilce": "YAHYALI",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 680,
+    "bolge": "KAYSERİ",
+    "il": "KAYSERİ",
+    "ilce": "YEŞİLHİSAR",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 681,
+    "bolge": "KAYSERİ",
+    "il": "KIRŞEHİR",
+    "ilce": "AKÇAKENT",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 682,
+    "bolge": "KAYSERİ",
+    "il": "KIRŞEHİR",
+    "ilce": "AKPINAR",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 683,
+    "bolge": "KAYSERİ",
+    "il": "KIRŞEHİR",
+    "ilce": "BOZTEPE",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 684,
+    "bolge": "KAYSERİ",
+    "il": "KIRŞEHİR",
+    "ilce": "ÇİÇEKDAĞI",
+    "tapu": 2.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 685,
+    "bolge": "KAYSERİ",
+    "il": "KIRŞEHİR",
+    "ilce": "KAMAN",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 686,
+    "bolge": "KAYSERİ",
+    "il": "KIRŞEHİR",
+    "ilce": "KIRŞEHİR",
+    "tapu": 2.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 687,
+    "bolge": "KAYSERİ",
+    "il": "KIRŞEHİR",
+    "ilce": "MUCUR",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 688,
+    "bolge": "KAYSERİ",
+    "il": "NEVŞEHİR",
+    "ilce": "ACIGÖL",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 689,
+    "bolge": "KAYSERİ",
+    "il": "NEVŞEHİR",
+    "ilce": "AVANOS",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 690,
+    "bolge": "KAYSERİ",
+    "il": "NEVŞEHİR",
+    "ilce": "DERİNKUYU",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 691,
+    "bolge": "KAYSERİ",
+    "il": "NEVŞEHİR",
+    "ilce": "GÜLŞEHİR",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 692,
+    "bolge": "KAYSERİ",
+    "il": "NEVŞEHİR",
+    "ilce": "HACIBEKTAŞ",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 693,
+    "bolge": "KAYSERİ",
+    "il": "NEVŞEHİR",
+    "ilce": "KOZAKLI",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 694,
+    "bolge": "KAYSERİ",
+    "il": "NEVŞEHİR",
+    "ilce": "NEVŞEHİR",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 695,
+    "bolge": "KAYSERİ",
+    "il": "NEVŞEHİR",
+    "ilce": "ÜRGÜP",
+    "tapu": 2.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 696,
+    "bolge": "KAYSERİ",
+    "il": "NİĞDE",
+    "ilce": "ALTUNHİSAR",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 697,
+    "bolge": "KAYSERİ",
+    "il": "NİĞDE",
+    "ilce": "BOR",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 698,
+    "bolge": "KAYSERİ",
+    "il": "NİĞDE",
+    "ilce": "ÇAMARDI",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 699,
+    "bolge": "KAYSERİ",
+    "il": "NİĞDE",
+    "ilce": "ÇİFTLİK",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 700,
+    "bolge": "KAYSERİ",
+    "il": "NİĞDE",
+    "ilce": "NİĞDE",
+    "tapu": 3.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 701,
+    "bolge": "KAYSERİ",
+    "il": "NİĞDE",
+    "ilce": "ULUKIŞLA",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 702,
+    "bolge": "KONYA",
+    "il": "AKSARAY",
+    "ilce": "AĞAÇÖREN",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 703,
+    "bolge": "KONYA",
+    "il": "AKSARAY",
+    "ilce": "AKSARAY",
+    "tapu": 3.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 704,
+    "bolge": "KONYA",
+    "il": "AKSARAY",
+    "ilce": "ESKİL",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 705,
+    "bolge": "KONYA",
+    "il": "AKSARAY",
+    "ilce": "GÜLAĞAÇ",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 706,
+    "bolge": "KONYA",
+    "il": "AKSARAY",
+    "ilce": "GÜZELYURT(AKSARAY)",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 707,
+    "bolge": "KONYA",
+    "il": "AKSARAY",
+    "ilce": "ORTAKÖY (AKSARAY)",
+    "tapu": 1.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 708,
+    "bolge": "KONYA",
+    "il": "AKSARAY",
+    "ilce": "SARIYAHŞİ",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 709,
+    "bolge": "KONYA",
+    "il": "AKSARAY",
+    "ilce": "SULTANHANI",
+    "tapu": 1.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 710,
+    "bolge": "KONYA",
+    "il": "KARAMAN",
+    "ilce": "AYRANCI",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 711,
+    "bolge": "KONYA",
+    "il": "KARAMAN",
+    "ilce": "BAŞYAYLA",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 712,
+    "bolge": "KONYA",
+    "il": "KARAMAN",
+    "ilce": "ERMENEK",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 713,
+    "bolge": "KONYA",
+    "il": "KARAMAN",
+    "ilce": "KARAMAN",
+    "tapu": 3.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 714,
+    "bolge": "KONYA",
+    "il": "KARAMAN",
+    "ilce": "KAZIMKARABEKİR",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 715,
+    "bolge": "KONYA",
+    "il": "KARAMAN",
+    "ilce": "SARIVELİLER",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 716,
+    "bolge": "KONYA",
+    "il": "KONYA",
+    "ilce": "AHIRLI",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 717,
+    "bolge": "KONYA",
+    "il": "KONYA",
+    "ilce": "AKÖREN",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 718,
+    "bolge": "KONYA",
+    "il": "KONYA",
+    "ilce": "AKŞEHİR",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 719,
+    "bolge": "KONYA",
+    "il": "KONYA",
+    "ilce": "ALTINEKİN",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 720,
+    "bolge": "KONYA",
+    "il": "KONYA",
+    "ilce": "BEYŞEHİR",
+    "tapu": 2.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 721,
+    "bolge": "KONYA",
+    "il": "KONYA",
+    "ilce": "BOZKIR",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 722,
+    "bolge": "KONYA",
+    "il": "KONYA",
+    "ilce": "CİHANBEYLİ",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 723,
+    "bolge": "KONYA",
+    "il": "KONYA",
+    "ilce": "ÇELTİK",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 724,
+    "bolge": "KONYA",
+    "il": "KONYA",
+    "ilce": "ÇUMRA",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 725,
+    "bolge": "KONYA",
+    "il": "KONYA",
+    "ilce": "DERBENT",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 726,
+    "bolge": "KONYA",
+    "il": "KONYA",
+    "ilce": "DEREBUCAK",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 727,
+    "bolge": "KONYA",
+    "il": "KONYA",
+    "ilce": "DOĞANHİSAR",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 728,
+    "bolge": "KONYA",
+    "il": "KONYA",
+    "ilce": "EMİRGAZİ",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 729,
+    "bolge": "KONYA",
+    "il": "KONYA",
+    "ilce": "EREĞLİ(KONYA)",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 730,
+    "bolge": "KONYA",
+    "il": "KONYA",
+    "ilce": "GÜNEYSINIR",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 731,
+    "bolge": "KONYA",
+    "il": "KONYA",
+    "ilce": "HADİM",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 732,
+    "bolge": "KONYA",
+    "il": "KONYA",
+    "ilce": "HALKPINAR",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 733,
+    "bolge": "KONYA",
+    "il": "KONYA",
+    "ilce": "HÜYÜK",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 734,
+    "bolge": "KONYA",
+    "il": "KONYA",
+    "ilce": "ILGIN",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 735,
+    "bolge": "KONYA",
+    "il": "KONYA",
+    "ilce": "KADINHANI",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 736,
+    "bolge": "KONYA",
+    "il": "KONYA",
+    "ilce": "KARAPINAR",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 737,
+    "bolge": "KONYA",
+    "il": "KONYA",
+    "ilce": "KARATAY",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 738,
+    "bolge": "KONYA",
+    "il": "KONYA",
+    "ilce": "KULU",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 739,
+    "bolge": "KONYA",
+    "il": "KONYA",
+    "ilce": "MERAM",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 740,
+    "bolge": "KONYA",
+    "il": "KONYA",
+    "ilce": "SARAYÖNÜ",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 741,
+    "bolge": "KONYA",
+    "il": "KONYA",
+    "ilce": "SELÇUKLU",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 742,
+    "bolge": "KONYA",
+    "il": "KONYA",
+    "ilce": "SEYDİŞEHİR",
+    "tapu": 2.0,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 743,
+    "bolge": "KONYA",
+    "il": "KONYA",
+    "ilce": "TAŞKENT",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 744,
+    "bolge": "KONYA",
+    "il": "KONYA",
+    "ilce": "TUZLUKÇU",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 745,
+    "bolge": "KONYA",
+    "il": "KONYA",
+    "ilce": "YALIHÜYÜK",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 746,
+    "bolge": "KONYA",
+    "il": "KONYA",
+    "ilce": "YUNAK",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 747,
+    "bolge": "SAMSUN",
+    "il": "AMASYA",
+    "ilce": "AMASYA",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 748,
+    "bolge": "SAMSUN",
+    "il": "AMASYA",
+    "ilce": "GÖYNÜCEK",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 749,
+    "bolge": "SAMSUN",
+    "il": "AMASYA",
+    "ilce": "GÜMÜŞHACIKÖY",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 750,
+    "bolge": "SAMSUN",
+    "il": "AMASYA",
+    "ilce": "HAMAMÖZÜ",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 751,
+    "bolge": "SAMSUN",
+    "il": "AMASYA",
+    "ilce": "MERZİFON",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 752,
+    "bolge": "SAMSUN",
+    "il": "AMASYA",
+    "ilce": "SULUOVA",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 753,
+    "bolge": "SAMSUN",
+    "il": "AMASYA",
+    "ilce": "TAŞOVA",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 754,
+    "bolge": "SAMSUN",
+    "il": "ORDU",
+    "ilce": "AKKUŞ",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 755,
+    "bolge": "SAMSUN",
+    "il": "ORDU",
+    "ilce": "ALTINORDU",
+    "tapu": 3.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 756,
+    "bolge": "SAMSUN",
+    "il": "ORDU",
+    "ilce": "AYBASTI",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 757,
+    "bolge": "SAMSUN",
+    "il": "ORDU",
+    "ilce": "ÇAMAŞ",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 758,
+    "bolge": "SAMSUN",
+    "il": "ORDU",
+    "ilce": "ÇATALPINAR",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 759,
+    "bolge": "SAMSUN",
+    "il": "ORDU",
+    "ilce": "ÇAYBAŞI",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 760,
+    "bolge": "SAMSUN",
+    "il": "ORDU",
+    "ilce": "FATSA",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 761,
+    "bolge": "SAMSUN",
+    "il": "ORDU",
+    "ilce": "GÖLKÖY",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 762,
+    "bolge": "SAMSUN",
+    "il": "ORDU",
+    "ilce": "GÜLYALI",
+    "tapu": 1.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 763,
+    "bolge": "SAMSUN",
+    "il": "ORDU",
+    "ilce": "GÜRGENTEPE",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 764,
+    "bolge": "SAMSUN",
+    "il": "ORDU",
+    "ilce": "İKİZCE",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 765,
+    "bolge": "SAMSUN",
+    "il": "ORDU",
+    "ilce": "KABADÜZ",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 766,
+    "bolge": "SAMSUN",
+    "il": "ORDU",
+    "ilce": "KABATAŞ",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 767,
+    "bolge": "SAMSUN",
+    "il": "ORDU",
+    "ilce": "KORGAN",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 768,
+    "bolge": "SAMSUN",
+    "il": "ORDU",
+    "ilce": "KUMRU",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 769,
+    "bolge": "SAMSUN",
+    "il": "ORDU",
+    "ilce": "MESUDİYE",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 770,
+    "bolge": "SAMSUN",
+    "il": "ORDU",
+    "ilce": "PERŞEMBE",
+    "tapu": 1.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 771,
+    "bolge": "SAMSUN",
+    "il": "ORDU",
+    "ilce": "ULUBEY(ORDU)",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 772,
+    "bolge": "SAMSUN",
+    "il": "ORDU",
+    "ilce": "ÜNYE",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 773,
+    "bolge": "SAMSUN",
+    "il": "SAMSUN",
+    "ilce": "ALAÇAM",
+    "tapu": 1.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 774,
+    "bolge": "SAMSUN",
+    "il": "SAMSUN",
+    "ilce": "ASARCIK",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 775,
+    "bolge": "SAMSUN",
+    "il": "SAMSUN",
+    "ilce": "ATAKUM",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 776,
+    "bolge": "SAMSUN",
+    "il": "SAMSUN",
+    "ilce": "AYVACIK(SAMSUN)",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 777,
+    "bolge": "SAMSUN",
+    "il": "SAMSUN",
+    "ilce": "BAFRA",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 778,
+    "bolge": "SAMSUN",
+    "il": "SAMSUN",
+    "ilce": "CANİK",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 779,
+    "bolge": "SAMSUN",
+    "il": "SAMSUN",
+    "ilce": "ÇARŞAMBA",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 780,
+    "bolge": "SAMSUN",
+    "il": "SAMSUN",
+    "ilce": "HAVZA",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 781,
+    "bolge": "SAMSUN",
+    "il": "SAMSUN",
+    "ilce": "İLKADIM",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 782,
+    "bolge": "SAMSUN",
+    "il": "SAMSUN",
+    "ilce": "KAVAK",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 783,
+    "bolge": "SAMSUN",
+    "il": "SAMSUN",
+    "ilce": "LADİK",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 784,
+    "bolge": "SAMSUN",
+    "il": "SAMSUN",
+    "ilce": "ONDOKUZ MAYIS",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 785,
+    "bolge": "SAMSUN",
+    "il": "SAMSUN",
+    "ilce": "SALIPAZARI",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 786,
+    "bolge": "SAMSUN",
+    "il": "SAMSUN",
+    "ilce": "TEKKEKÖY",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 787,
+    "bolge": "SAMSUN",
+    "il": "SAMSUN",
+    "ilce": "TERME",
+    "tapu": 2.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 788,
+    "bolge": "SAMSUN",
+    "il": "SAMSUN",
+    "ilce": "VEZİRKÖPRÜ",
+    "tapu": 2.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 789,
+    "bolge": "SAMSUN",
+    "il": "SAMSUN",
+    "ilce": "YAKAKENT",
+    "tapu": 1.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 790,
+    "bolge": "SAMSUN",
+    "il": "SİNOP",
+    "ilce": "AYANCIK",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 791,
+    "bolge": "SAMSUN",
+    "il": "SİNOP",
+    "ilce": "BOYABAT",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 792,
+    "bolge": "SAMSUN",
+    "il": "SİNOP",
+    "ilce": "DİKMEN",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 793,
+    "bolge": "SAMSUN",
+    "il": "SİNOP",
+    "ilce": "DURAĞAN",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 794,
+    "bolge": "SAMSUN",
+    "il": "SİNOP",
+    "ilce": "ERFELEK",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 795,
+    "bolge": "SAMSUN",
+    "il": "SİNOP",
+    "ilce": "GERZE",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 796,
+    "bolge": "SAMSUN",
+    "il": "SİNOP",
+    "ilce": "SARAYDÜZÜ",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 797,
+    "bolge": "SAMSUN",
+    "il": "SİNOP",
+    "ilce": "SİNOP",
+    "tapu": 2.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 798,
+    "bolge": "SAMSUN",
+    "il": "SİNOP",
+    "ilce": "TÜRKELİ",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 799,
+    "bolge": "SİVAS",
+    "il": "SİVAS",
+    "ilce": "AKINCILAR",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 800,
+    "bolge": "SİVAS",
+    "il": "SİVAS",
+    "ilce": "ALTINYAYLA (SİVAS)",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 801,
+    "bolge": "SİVAS",
+    "il": "SİVAS",
+    "ilce": "DİVRİĞİ",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 802,
+    "bolge": "SİVAS",
+    "il": "SİVAS",
+    "ilce": "DOĞANŞAR",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 803,
+    "bolge": "SİVAS",
+    "il": "SİVAS",
+    "ilce": "GEMEREK",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 804,
+    "bolge": "SİVAS",
+    "il": "SİVAS",
+    "ilce": "GÖLOVA",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 805,
+    "bolge": "SİVAS",
+    "il": "SİVAS",
+    "ilce": "GÜRÜN",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 806,
+    "bolge": "SİVAS",
+    "il": "SİVAS",
+    "ilce": "HAFİK",
+    "tapu": 1.5,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 807,
+    "bolge": "SİVAS",
+    "il": "SİVAS",
+    "ilce": "İMRANLI",
+    "tapu": 1.5,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 808,
+    "bolge": "SİVAS",
+    "il": "SİVAS",
+    "ilce": "KANGAL",
+    "tapu": 1.5,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 809,
+    "bolge": "SİVAS",
+    "il": "SİVAS",
+    "ilce": "KOYULHİSAR",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 810,
+    "bolge": "SİVAS",
+    "il": "SİVAS",
+    "ilce": "SİVAS",
+    "tapu": 3.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 811,
+    "bolge": "SİVAS",
+    "il": "SİVAS",
+    "ilce": "SUŞEHRİ",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 812,
+    "bolge": "SİVAS",
+    "il": "SİVAS",
+    "ilce": "ŞARKIŞLA",
+    "tapu": 1.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 813,
+    "bolge": "SİVAS",
+    "il": "SİVAS",
+    "ilce": "ULAŞ",
+    "tapu": 1.5,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 814,
+    "bolge": "SİVAS",
+    "il": "SİVAS",
+    "ilce": "YILDIZELİ",
+    "tapu": 1.5,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 815,
+    "bolge": "SİVAS",
+    "il": "SİVAS",
+    "ilce": "ZARA",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 816,
+    "bolge": "SİVAS",
+    "il": "TOKAT",
+    "ilce": "ALMUS",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 817,
+    "bolge": "SİVAS",
+    "il": "TOKAT",
+    "ilce": "ARTOVA",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 818,
+    "bolge": "SİVAS",
+    "il": "TOKAT",
+    "ilce": "BAŞÇİFTLİK",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 819,
+    "bolge": "SİVAS",
+    "il": "TOKAT",
+    "ilce": "ERBAA",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 820,
+    "bolge": "SİVAS",
+    "il": "TOKAT",
+    "ilce": "NİKSAR",
+    "tapu": 2.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 821,
+    "bolge": "SİVAS",
+    "il": "TOKAT",
+    "ilce": "PAZAR (TOKAT)",
+    "tapu": 1.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 822,
+    "bolge": "SİVAS",
+    "il": "TOKAT",
+    "ilce": "REŞADİYE",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 823,
+    "bolge": "SİVAS",
+    "il": "TOKAT",
+    "ilce": "SULUSARAY",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 824,
+    "bolge": "SİVAS",
+    "il": "TOKAT",
+    "ilce": "TOKAT",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 825,
+    "bolge": "SİVAS",
+    "il": "TOKAT",
+    "ilce": "TURHAL",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 826,
+    "bolge": "SİVAS",
+    "il": "TOKAT",
+    "ilce": "YEŞİLYURT (TOKAT)",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 827,
+    "bolge": "SİVAS",
+    "il": "TOKAT",
+    "ilce": "ZİLE",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 828,
+    "bolge": "ŞANLIURFA",
+    "il": "ADIYAMAN",
+    "ilce": "ADIYAMAN",
+    "tapu": 2.5,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 829,
+    "bolge": "ŞANLIURFA",
+    "il": "ADIYAMAN",
+    "ilce": "BESNİ",
+    "tapu": 2.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 830,
+    "bolge": "ŞANLIURFA",
+    "il": "ADIYAMAN",
+    "ilce": "ÇELİKHAN",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 831,
+    "bolge": "ŞANLIURFA",
+    "il": "ADIYAMAN",
+    "ilce": "GERGER",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 832,
+    "bolge": "ŞANLIURFA",
+    "il": "ADIYAMAN",
+    "ilce": "GÖLBAŞI (ADIYAMAN)",
+    "tapu": 2.0,
+    "kadastro": 1.7
+  },
+  {
+    "sira": 833,
+    "bolge": "ŞANLIURFA",
+    "il": "ADIYAMAN",
+    "ilce": "KAHTA",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 834,
+    "bolge": "ŞANLIURFA",
+    "il": "ADIYAMAN",
+    "ilce": "SAMSAT",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 835,
+    "bolge": "ŞANLIURFA",
+    "il": "ADIYAMAN",
+    "ilce": "SİNCİK",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 836,
+    "bolge": "ŞANLIURFA",
+    "il": "ADIYAMAN",
+    "ilce": "TUT",
+    "tapu": 1.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 837,
+    "bolge": "ŞANLIURFA",
+    "il": "MARDİN",
+    "ilce": "ARTUKLU",
+    "tapu": 3.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 838,
+    "bolge": "ŞANLIURFA",
+    "il": "MARDİN",
+    "ilce": "DARGEÇİT",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 839,
+    "bolge": "ŞANLIURFA",
+    "il": "MARDİN",
+    "ilce": "DERİK",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 840,
+    "bolge": "ŞANLIURFA",
+    "il": "MARDİN",
+    "ilce": "KIZILTEPE",
+    "tapu": 2.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 841,
+    "bolge": "ŞANLIURFA",
+    "il": "MARDİN",
+    "ilce": "MAZIDAĞI",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 842,
+    "bolge": "ŞANLIURFA",
+    "il": "MARDİN",
+    "ilce": "MİDYAT",
+    "tapu": 2.5,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 843,
+    "bolge": "ŞANLIURFA",
+    "il": "MARDİN",
+    "ilce": "NUSAYBİN",
+    "tapu": 2.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 844,
+    "bolge": "ŞANLIURFA",
+    "il": "MARDİN",
+    "ilce": "ÖMERLİ",
+    "tapu": 1.5,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 845,
+    "bolge": "ŞANLIURFA",
+    "il": "MARDİN",
+    "ilce": "SAVUR",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 846,
+    "bolge": "ŞANLIURFA",
+    "il": "MARDİN",
+    "ilce": "YEŞİLLİ",
+    "tapu": 2.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 847,
+    "bolge": "ŞANLIURFA",
+    "il": "ŞANLIURFA",
+    "ilce": "AKÇAKALE",
+    "tapu": 1.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 848,
+    "bolge": "ŞANLIURFA",
+    "il": "ŞANLIURFA",
+    "ilce": "BİRECİK",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 849,
+    "bolge": "ŞANLIURFA",
+    "il": "ŞANLIURFA",
+    "ilce": "BOZOVA",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 850,
+    "bolge": "ŞANLIURFA",
+    "il": "ŞANLIURFA",
+    "ilce": "CEYLANPINAR",
+    "tapu": 1.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 851,
+    "bolge": "ŞANLIURFA",
+    "il": "ŞANLIURFA",
+    "ilce": "EYYUBİYE",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 852,
+    "bolge": "ŞANLIURFA",
+    "il": "ŞANLIURFA",
+    "ilce": "HALFETİ",
+    "tapu": 1.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 853,
+    "bolge": "ŞANLIURFA",
+    "il": "ŞANLIURFA",
+    "ilce": "HALİLİYE",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 854,
+    "bolge": "ŞANLIURFA",
+    "il": "ŞANLIURFA",
+    "ilce": "HARRAN",
+    "tapu": 1.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 855,
+    "bolge": "ŞANLIURFA",
+    "il": "ŞANLIURFA",
+    "ilce": "HİLVAN",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 856,
+    "bolge": "ŞANLIURFA",
+    "il": "ŞANLIURFA",
+    "ilce": "KARAKÖPRÜ",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 857,
+    "bolge": "ŞANLIURFA",
+    "il": "ŞANLIURFA",
+    "ilce": "SİVEREK",
+    "tapu": 2.5,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 858,
+    "bolge": "ŞANLIURFA",
+    "il": "ŞANLIURFA",
+    "ilce": "SURUÇ",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 859,
+    "bolge": "ŞANLIURFA",
+    "il": "ŞANLIURFA",
+    "ilce": "VİRANŞEHİR",
+    "tapu": 2.0,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 860,
+    "bolge": "TRABZON",
+    "il": "ARTVİN",
+    "ilce": "ARDANUÇ",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 861,
+    "bolge": "TRABZON",
+    "il": "ARTVİN",
+    "ilce": "ARHAVİ",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 862,
+    "bolge": "TRABZON",
+    "il": "ARTVİN",
+    "ilce": "ARTVİN",
+    "tapu": 2.5,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 863,
+    "bolge": "TRABZON",
+    "il": "ARTVİN",
+    "ilce": "BORÇKA",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 864,
+    "bolge": "TRABZON",
+    "il": "ARTVİN",
+    "ilce": "HOPA",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 865,
+    "bolge": "TRABZON",
+    "il": "ARTVİN",
+    "ilce": "KEMALPAŞA",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 866,
+    "bolge": "TRABZON",
+    "il": "ARTVİN",
+    "ilce": "MURGUL",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 867,
+    "bolge": "TRABZON",
+    "il": "ARTVİN",
+    "ilce": "ŞAVŞAT",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 868,
+    "bolge": "TRABZON",
+    "il": "ARTVİN",
+    "ilce": "YUSUFELİ",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 869,
+    "bolge": "TRABZON",
+    "il": "GİRESUN",
+    "ilce": "ALUCRA",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 870,
+    "bolge": "TRABZON",
+    "il": "GİRESUN",
+    "ilce": "BULANCAK",
+    "tapu": 2.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 871,
+    "bolge": "TRABZON",
+    "il": "GİRESUN",
+    "ilce": "ÇAMOLUK",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 872,
+    "bolge": "TRABZON",
+    "il": "GİRESUN",
+    "ilce": "ÇANAKÇI",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 873,
+    "bolge": "TRABZON",
+    "il": "GİRESUN",
+    "ilce": "DERELİ",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 874,
+    "bolge": "TRABZON",
+    "il": "GİRESUN",
+    "ilce": "DOĞANKENT",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 875,
+    "bolge": "TRABZON",
+    "il": "GİRESUN",
+    "ilce": "ESPİYE",
+    "tapu": 2.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 876,
+    "bolge": "TRABZON",
+    "il": "GİRESUN",
+    "ilce": "EYNESİL",
+    "tapu": 1.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 877,
+    "bolge": "TRABZON",
+    "il": "GİRESUN",
+    "ilce": "GİRESUN",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 878,
+    "bolge": "TRABZON",
+    "il": "GİRESUN",
+    "ilce": "GÖRELE",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 879,
+    "bolge": "TRABZON",
+    "il": "GİRESUN",
+    "ilce": "GÜCE",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 880,
+    "bolge": "TRABZON",
+    "il": "GİRESUN",
+    "ilce": "KEŞAP",
+    "tapu": 1.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 881,
+    "bolge": "TRABZON",
+    "il": "GİRESUN",
+    "ilce": "PİRAZİZ",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 882,
+    "bolge": "TRABZON",
+    "il": "GİRESUN",
+    "ilce": "ŞEBİNKARAHİSAR",
+    "tapu": 1.5,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 883,
+    "bolge": "TRABZON",
+    "il": "GİRESUN",
+    "ilce": "TİREBOLU",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 884,
+    "bolge": "TRABZON",
+    "il": "GİRESUN",
+    "ilce": "YAĞLIDERE",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 885,
+    "bolge": "TRABZON",
+    "il": "RİZE",
+    "ilce": "ARDEŞEN",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 886,
+    "bolge": "TRABZON",
+    "il": "RİZE",
+    "ilce": "ÇAMLIHEMŞİN",
+    "tapu": 1.0,
+    "kadastro": 0.8
+  },
+  {
+    "sira": 887,
+    "bolge": "TRABZON",
+    "il": "RİZE",
+    "ilce": "ÇAYELİ",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 888,
+    "bolge": "TRABZON",
+    "il": "RİZE",
+    "ilce": "DEREPAZARI",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 889,
+    "bolge": "TRABZON",
+    "il": "RİZE",
+    "ilce": "FINDIKLI",
+    "tapu": 1.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 890,
+    "bolge": "TRABZON",
+    "il": "RİZE",
+    "ilce": "GÜNEYSU",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 891,
+    "bolge": "TRABZON",
+    "il": "RİZE",
+    "ilce": "HEMŞİN",
+    "tapu": 1.0,
+    "kadastro": 0.8
+  },
+  {
+    "sira": 892,
+    "bolge": "TRABZON",
+    "il": "RİZE",
+    "ilce": "İKİZDERE",
+    "tapu": 1.0,
+    "kadastro": 0.8
+  },
+  {
+    "sira": 893,
+    "bolge": "TRABZON",
+    "il": "RİZE",
+    "ilce": "İYİDERE",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 894,
+    "bolge": "TRABZON",
+    "il": "RİZE",
+    "ilce": "KALKANDERE",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 895,
+    "bolge": "TRABZON",
+    "il": "RİZE",
+    "ilce": "PAZAR (RİZE)",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 896,
+    "bolge": "TRABZON",
+    "il": "RİZE",
+    "ilce": "RİZE",
+    "tapu": 2.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 897,
+    "bolge": "TRABZON",
+    "il": "TRABZON",
+    "ilce": "AKÇAABAT",
+    "tapu": 3.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 898,
+    "bolge": "TRABZON",
+    "il": "TRABZON",
+    "ilce": "ARAKLI",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 899,
+    "bolge": "TRABZON",
+    "il": "TRABZON",
+    "ilce": "ARSİN",
+    "tapu": 1.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 900,
+    "bolge": "TRABZON",
+    "il": "TRABZON",
+    "ilce": "BEŞİKDÜZÜ",
+    "tapu": 1.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 901,
+    "bolge": "TRABZON",
+    "il": "TRABZON",
+    "ilce": "ÇARŞIBAŞI",
+    "tapu": 1.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 902,
+    "bolge": "TRABZON",
+    "il": "TRABZON",
+    "ilce": "ÇAYKARA",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 903,
+    "bolge": "TRABZON",
+    "il": "TRABZON",
+    "ilce": "DERNEKPAZARI",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 904,
+    "bolge": "TRABZON",
+    "il": "TRABZON",
+    "ilce": "DÜZKÖY",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 905,
+    "bolge": "TRABZON",
+    "il": "TRABZON",
+    "ilce": "HAYRAT",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 906,
+    "bolge": "TRABZON",
+    "il": "TRABZON",
+    "ilce": "KÖPRÜBAŞI(TRABZON)",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 907,
+    "bolge": "TRABZON",
+    "il": "TRABZON",
+    "ilce": "MAÇKA",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 908,
+    "bolge": "TRABZON",
+    "il": "TRABZON",
+    "ilce": "OF",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 909,
+    "bolge": "TRABZON",
+    "il": "TRABZON",
+    "ilce": "ORTAHİSAR",
+    "tapu": 3.0,
+    "kadastro": 2.0
+  },
+  {
+    "sira": 910,
+    "bolge": "TRABZON",
+    "il": "TRABZON",
+    "ilce": "SÜRMENE",
+    "tapu": 1.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 911,
+    "bolge": "TRABZON",
+    "il": "TRABZON",
+    "ilce": "ŞALPAZARI",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 912,
+    "bolge": "TRABZON",
+    "il": "TRABZON",
+    "ilce": "TONYA",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 913,
+    "bolge": "TRABZON",
+    "il": "TRABZON",
+    "ilce": "VAKFIKEBİR",
+    "tapu": 1.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 914,
+    "bolge": "TRABZON",
+    "il": "TRABZON",
+    "ilce": "YOMRA",
+    "tapu": 2.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 915,
+    "bolge": "VAN",
+    "il": "BİTLİS",
+    "ilce": "ADİLCEVAZ",
+    "tapu": 1.5,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 916,
+    "bolge": "VAN",
+    "il": "BİTLİS",
+    "ilce": "AHLAT",
+    "tapu": 1.5,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 917,
+    "bolge": "VAN",
+    "il": "BİTLİS",
+    "ilce": "BİTLİS",
+    "tapu": 2.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 918,
+    "bolge": "VAN",
+    "il": "BİTLİS",
+    "ilce": "GÜROYMAK",
+    "tapu": 1.5,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 919,
+    "bolge": "VAN",
+    "il": "BİTLİS",
+    "ilce": "HİZAN",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 920,
+    "bolge": "VAN",
+    "il": "BİTLİS",
+    "ilce": "MUTKİ",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 921,
+    "bolge": "VAN",
+    "il": "BİTLİS",
+    "ilce": "TATVAN",
+    "tapu": 2.5,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 922,
+    "bolge": "VAN",
+    "il": "HAKKARİ",
+    "ilce": "ÇUKURCA",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 923,
+    "bolge": "VAN",
+    "il": "HAKKARİ",
+    "ilce": "DERECİK",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 924,
+    "bolge": "VAN",
+    "il": "HAKKARİ",
+    "ilce": "HAKKARİ",
+    "tapu": 2.0,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 925,
+    "bolge": "VAN",
+    "il": "HAKKARİ",
+    "ilce": "ŞEMDİNLİ",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 926,
+    "bolge": "VAN",
+    "il": "HAKKARİ",
+    "ilce": "YÜKSEKOVA",
+    "tapu": 2.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 927,
+    "bolge": "VAN",
+    "il": "MUŞ",
+    "ilce": "BULANIK",
+    "tapu": 1.5,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 928,
+    "bolge": "VAN",
+    "il": "MUŞ",
+    "ilce": "HASKÖY",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 929,
+    "bolge": "VAN",
+    "il": "MUŞ",
+    "ilce": "KORKUT",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 930,
+    "bolge": "VAN",
+    "il": "MUŞ",
+    "ilce": "MALAZGİRT",
+    "tapu": 1.5,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 931,
+    "bolge": "VAN",
+    "il": "MUŞ",
+    "ilce": "MUŞ",
+    "tapu": 2.5,
+    "kadastro": 1.1
+  },
+  {
+    "sira": 932,
+    "bolge": "VAN",
+    "il": "MUŞ",
+    "ilce": "VARTO",
+    "tapu": 1.5,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 933,
+    "bolge": "VAN",
+    "il": "VAN",
+    "ilce": "BAHÇESARAY",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 934,
+    "bolge": "VAN",
+    "il": "VAN",
+    "ilce": "BAŞKALE",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 935,
+    "bolge": "VAN",
+    "il": "VAN",
+    "ilce": "ÇALDIRAN",
+    "tapu": 1.5,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 936,
+    "bolge": "VAN",
+    "il": "VAN",
+    "ilce": "ÇATAK",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 937,
+    "bolge": "VAN",
+    "il": "VAN",
+    "ilce": "EDREMİT (VAN)",
+    "tapu": 3.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 938,
+    "bolge": "VAN",
+    "il": "VAN",
+    "ilce": "ERCİŞ",
+    "tapu": 2.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 939,
+    "bolge": "VAN",
+    "il": "VAN",
+    "ilce": "GEVAŞ",
+    "tapu": 1.5,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 940,
+    "bolge": "VAN",
+    "il": "VAN",
+    "ilce": "GÜRPINAR",
+    "tapu": 1.5,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 941,
+    "bolge": "VAN",
+    "il": "VAN",
+    "ilce": "İPEKYOLU",
+    "tapu": 3.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 942,
+    "bolge": "VAN",
+    "il": "VAN",
+    "ilce": "MURADİYE",
+    "tapu": 1.5,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 943,
+    "bolge": "VAN",
+    "il": "VAN",
+    "ilce": "ÖZALP",
+    "tapu": 1.5,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 944,
+    "bolge": "VAN",
+    "il": "VAN",
+    "ilce": "SARAY (VAN)",
+    "tapu": 1.0,
+    "kadastro": 0.9
+  },
+  {
+    "sira": 945,
+    "bolge": "VAN",
+    "il": "VAN",
+    "ilce": "TUŞBA",
+    "tapu": 3.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 946,
+    "bolge": "YOZGAT",
+    "il": "ÇORUM",
+    "ilce": "ALACA",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 947,
+    "bolge": "YOZGAT",
+    "il": "ÇORUM",
+    "ilce": "BAYAT(ÇORUM)",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 948,
+    "bolge": "YOZGAT",
+    "il": "ÇORUM",
+    "ilce": "BOĞAZKALE",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 949,
+    "bolge": "YOZGAT",
+    "il": "ÇORUM",
+    "ilce": "ÇORUM",
+    "tapu": 3.0,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 950,
+    "bolge": "YOZGAT",
+    "il": "ÇORUM",
+    "ilce": "DODURGA",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 951,
+    "bolge": "YOZGAT",
+    "il": "ÇORUM",
+    "ilce": "İSKİLİP",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 952,
+    "bolge": "YOZGAT",
+    "il": "ÇORUM",
+    "ilce": "KARGI",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 953,
+    "bolge": "YOZGAT",
+    "il": "ÇORUM",
+    "ilce": "LAÇİN",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 954,
+    "bolge": "YOZGAT",
+    "il": "ÇORUM",
+    "ilce": "MECİTÖZÜ",
+    "tapu": 1.5,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 955,
+    "bolge": "YOZGAT",
+    "il": "ÇORUM",
+    "ilce": "OĞUZLAR",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 956,
+    "bolge": "YOZGAT",
+    "il": "ÇORUM",
+    "ilce": "ORTAKÖY(ÇORUM)",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 957,
+    "bolge": "YOZGAT",
+    "il": "ÇORUM",
+    "ilce": "OSMANCIK",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 958,
+    "bolge": "YOZGAT",
+    "il": "ÇORUM",
+    "ilce": "SUNGURLU",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 959,
+    "bolge": "YOZGAT",
+    "il": "ÇORUM",
+    "ilce": "UĞURLUDAĞ",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 960,
+    "bolge": "YOZGAT",
+    "il": "YOZGAT",
+    "ilce": "AKDAĞMADENİ",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 961,
+    "bolge": "YOZGAT",
+    "il": "YOZGAT",
+    "ilce": "AYDINCIK(YOZGAT)",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 962,
+    "bolge": "YOZGAT",
+    "il": "YOZGAT",
+    "ilce": "BOĞAZLIYAN",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 963,
+    "bolge": "YOZGAT",
+    "il": "YOZGAT",
+    "ilce": "ÇANDIR",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 964,
+    "bolge": "YOZGAT",
+    "il": "YOZGAT",
+    "ilce": "ÇAYIRALAN",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 965,
+    "bolge": "YOZGAT",
+    "il": "YOZGAT",
+    "ilce": "ÇEKEREK",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 966,
+    "bolge": "YOZGAT",
+    "il": "YOZGAT",
+    "ilce": "KADIŞEHRİ",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 967,
+    "bolge": "YOZGAT",
+    "il": "YOZGAT",
+    "ilce": "SARAYKENT",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 968,
+    "bolge": "YOZGAT",
+    "il": "YOZGAT",
+    "ilce": "SARIKAYA",
+    "tapu": 2.0,
+    "kadastro": 1.2
+  },
+  {
+    "sira": 969,
+    "bolge": "YOZGAT",
+    "il": "YOZGAT",
+    "ilce": "SORGUN",
+    "tapu": 2.5,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 970,
+    "bolge": "YOZGAT",
+    "il": "YOZGAT",
+    "ilce": "ŞEFAATLİ",
+    "tapu": 1.5,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 971,
+    "bolge": "YOZGAT",
+    "il": "YOZGAT",
+    "ilce": "YENİFAKILI",
+    "tapu": 1.0,
+    "kadastro": 1.0
+  },
+  {
+    "sira": 972,
+    "bolge": "YOZGAT",
+    "il": "YOZGAT",
+    "ilce": "YERKÖY",
+    "tapu": 2.0,
+    "kadastro": 1.4
+  },
+  {
+    "sira": 973,
+    "bolge": "YOZGAT",
+    "il": "YOZGAT",
+    "ilce": "YOZGAT",
+    "tapu": 2.5,
+    "kadastro": 1.5
+  },
+  {
+    "sira": 974,
+    "bolge": "YURTDIŞI",
+    "il": "ALMANYA",
+    "ilce": "BERLİN",
+    "tapu": 3.0,
+    "kadastro": 1.75
+  }
+]
