@@ -927,6 +927,16 @@ def corner_coordinate_fee(count: int) -> tuple[float, str]:
     return total, "Kademeli: 1-500=29,00 | 501-1.000=24,00 | 1.001+=11,00 TL / Nokta"
 
 
+def corner_unit_display(count: int) -> str:
+    if count <= 0:
+        return "29,00 TL / Nokta"
+    if count <= 500:
+        return "29,00 TL / Nokta"
+    if count <= 1000:
+        return "29,00 / 24,00 TL / Nokta"
+    return "29,00 / 24,00 / 11,00 TL / Nokta"
+
+
 class KadastroDesktopApp(tk.Tk):
     def __init__(self) -> None:
         super().__init__()
@@ -1468,7 +1478,7 @@ class KadastroDesktopApp(tk.Tk):
                 "sira": 1,
                 "cinsi": "Parsel Köşe Noktası",
                 "adet": corner_qty,
-                "birim": corner_price_label,
+                "birim": corner_unit_display(corner_qty),
                 "tutar": corner_total,
             }
         )
@@ -1703,7 +1713,7 @@ class KadastroDesktopApp(tk.Tk):
         row_host.grid(row=1, column=0, columnspan=5, sticky="w")
         self._pdf_rows_host = row_host
 
-        def add_row(default_row: dict[str, str] | None = None) -> None:
+        def add_row(default_row: dict[str, str] | None = None, copy_last_mahalle: bool = False) -> None:
             host = self._pdf_rows_host
             row_index = len(self._pdf_row_vars)
             defaults_row = default_row or {}
@@ -1714,6 +1724,10 @@ class KadastroDesktopApp(tk.Tk):
                 "parsel_no": tk.StringVar(value=str(defaults_row.get("parsel_no", ""))),
                 "yuzolcumu": tk.StringVar(value=str(defaults_row.get("yuzolcumu", ""))),
             }
+            if copy_last_mahalle and self._pdf_row_vars and not row_vars["mahalle_koy"].get().strip():
+                previous_mahalle = self._pdf_row_vars[-1]["mahalle_koy"].get().strip()
+                if previous_mahalle:
+                    row_vars["mahalle_koy"].set(previous_mahalle)
             ttk.Entry(host, textvariable=row_vars["mahalle_koy"], width=30).grid(row=row_index, column=0, sticky="w", padx=(0, 8), pady=3)
             ttk.Entry(host, textvariable=row_vars["pafta_no"], width=12).grid(row=row_index, column=1, sticky="w", padx=(0, 8), pady=3)
             ttk.Entry(host, textvariable=row_vars["ada_no"], width=12).grid(row=row_index, column=2, sticky="w", padx=(0, 8), pady=3)
@@ -1728,12 +1742,17 @@ class KadastroDesktopApp(tk.Tk):
 
         row_actions = ttk.Frame(top_section)
         row_actions.grid(row=2, column=0, columnspan=5, sticky="w", pady=(6, 0))
-        ttk.Button(row_actions, text="+", width=4, style="Primary.TButton", command=lambda: add_row()).pack(side="left")
+        ttk.Button(
+            row_actions,
+            text="+",
+            width=4,
+            style="Primary.TButton",
+            command=lambda: add_row(copy_last_mahalle=True),
+        ).pack(side="left")
 
-        arz_section = ttk.LabelFrame(form_wrap, text="Talep Metni", padding=10)
+        arz_section = ttk.LabelFrame(form_wrap, text="Hangi işlem için isteniyor", padding=10)
         arz_section.pack(fill="x", pady=(10, 0))
-        ttk.Label(arz_section, text="Metin:").grid(row=0, column=0, sticky="w")
-        ttk.Entry(arz_section, textvariable=vars_data["arz_oncesi"], width=86).grid(row=1, column=0, sticky="w", pady=(4, 0))
+        ttk.Entry(arz_section, textvariable=vars_data["arz_oncesi"], width=86).grid(row=0, column=0, sticky="w")
 
         sign_section = ttk.LabelFrame(form_wrap, text="İmza ve Sorumlu Alanları", padding=10)
         sign_section.pack(fill="x", pady=(10, 0))
@@ -1771,6 +1790,13 @@ class KadastroDesktopApp(tk.Tk):
             if any(row.values()):
                 parcel_rows.append(row)
         form_data["parcel_rows"] = parcel_rows
+        if parcel_rows:
+            first_row = parcel_rows[0]
+            form_data["mahalle_koy"] = first_row.get("mahalle_koy", "")
+            form_data["pafta_no"] = first_row.get("pafta_no", "")
+            form_data["ada_no"] = first_row.get("ada_no", "")
+            form_data["parsel_no"] = first_row.get("parsel_no", "")
+            form_data["yuzolcumu"] = first_row.get("yuzolcumu", "")
         self.last_pdf_form_data = form_data
 
         default_name = f"teknik_bilgi_belge_{datetime.now().strftime('%Y%m%d_%H%M')}.pdf"
@@ -1907,7 +1933,7 @@ class KadastroDesktopApp(tk.Tk):
         table_height = 318
         c.rect(left, table_y - table_height, right - left, table_height)
 
-        column_edges = [left, left + 225, left + 280, left + 412, right]
+        column_edges = [left, left + 190, left + 240, left + 400, right]
         for edge in column_edges[1:-1]:
             c.line(edge, table_y, edge, table_y - table_height)
         c.line(left, table_y - 20, right, table_y - 20)
@@ -1917,9 +1943,15 @@ class KadastroDesktopApp(tk.Tk):
         for i, title in enumerate(col_headers):
             c.drawString(column_edges[i] + 4, table_y - 14, title)
 
+        render_rows = [
+            row
+            for row in report["rows"]
+            if float(row.get("tutar", 0.0) or 0.0) > 0.0 and float(row.get("adet", 0) or 0) > 0
+        ]
+
         y = table_y - 35
         c.setFont(normal_font, 8.8)
-        for row in report["rows"]:
+        for row in render_rows:
             if y < table_y - table_height + 55:
                 break
             c.drawString(column_edges[0] + 4, y, str(row["cinsi"])[:50])
